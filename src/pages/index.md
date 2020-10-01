@@ -2,12 +2,12 @@
 title: Home - Creative Cloud
 description: This is the home page of Creative Cloud 
 ---
- 
+
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  Digital asset management, superpowered by scripting. <br /> Build What’s Next in Bridge
+#  🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️ THIS IS THE PAGE ASH IS EDITING 🙅‍♂️🙅‍♂️🙅‍♂️
 
 Adobe Bridge®, integrated digital asset management for Creative Cloud applications, becomes even more powerful with scripted plug-ins you build in industry-standard JavaScript. Automate complex file conversion processes, manipulate metadata in bulk, create custom workspaces and interfaces, and integrate workflows across Adobe CC apps. <br /> <br />The guides, reference documentation, and sample code in the Adobe Bridge SDK show you how to write plug-ins using ExtendScript, the extended standard JavaScript that provides access to the Creative Cloud APIs. Download the SDK today and build that superpowered asset management tool you and your users want.
 
@@ -37,37 +37,46 @@ Build custom UI elements in JavaScript that provide your users a fine-tuned inte
 Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creative Cloud application APIs, to build plug-ins that execute integrated workflows across multiple CC apps.
 
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<!-- <ProductCard slots="icon, heading, text" theme="light" width="33%" />
+
+![CC icon](images/bridge-teaser1.jpg)
 
 ### Build plug-ins with familiar tools
 
 Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of JavaScript extended to expose the API. You can build plug-ins in the ExtendScript Toolkit, Adobe’s rich JavaScript IDE, or your favorite JavaScript toolset. 
 
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
+![CC icon](images/bridge-teaser2.jpg)
 
 ### Create your own custom workspaces
 
 The Bridge API gives you full control of the application’s interface, enabling you to build custom workspaces that suit your needs (or those of others as well!)
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+
+![CC icon](images/bridge-teaser3.jpg)
 
 ### Start from a solid foundation
 
 The Bridge SDK comes with an extensive library of samples that demonstrate how to access and leverage virtually the entire API. No matter what you want to build, you’ll find examples to show you the way.
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+
+![CC icon](images/bridge-teaser4.jpg)
 
 ### Create your own UI
 
 ExtendScript with the Bridge API lets you define custom windows, palettes, dialogs, and navigation bar items to give users the kind of control you want.
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
-### Extend across apps
+![CC icon](images/bridge-teaser5.jpg)
 
-You can build ExtendScript plug-ins that work across Adobe Creative Cloud apps by placing them in the shared scripts folder. Your script can run on application startup and automate workflows across CC.
+#### Extend across apps
+
+You can build ExtendScript plug-ins that work across Adobe Creative Cloud apps by placing them in the shared scripts folder. Your script can run on application startup and automate workflows across CC. -->
 
 <SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
 
