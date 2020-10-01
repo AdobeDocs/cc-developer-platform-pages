@@ -36,34 +36,34 @@ Build custom UI elements in JavaScript that provide your users a fine-tuned inte
 
 Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creative Cloud application APIs, to build plug-ins that execute integrated workflows across multiple CC apps.
 
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
 
 ### Build plug-ins with familiar tools
 
 Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of JavaScript extended to expose the API. You can build plug-ins in the ExtendScript Toolkit, Adobe’s rich JavaScript IDE, or your favorite JavaScript toolset. 
 
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 
 ### Create your own custom workspaces
 
 The Bridge API gives you full control of the application’s interface, enabling you to build custom workspaces that suit your needs (or those of others as well!)
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 ### Start from a solid foundation
 
 The Bridge SDK comes with an extensive library of samples that demonstrate how to access and leverage virtually the entire API. No matter what you want to build, you’ll find examples to show you the way.
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 ### Create your own UI
 
 ExtendScript with the Bridge API lets you define custom windows, palettes, dialogs, and navigation bar items to give users the kind of control you want.
 
-<TextBlock slots="heading, text" width="50%" theme="light" isCentered />
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 ### Extend across apps
 
