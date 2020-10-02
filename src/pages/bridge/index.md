@@ -80,4 +80,4 @@ You can build ExtendScript plug-ins that work across Adobe Creative Cloud apps b
 ## Start building Today
 
 
-* [Get the Profile SDK](https://console.adobe.io/downloads/cr)
+* [Get the Profile SDK](https://console.adobe.io/downloads/br)
