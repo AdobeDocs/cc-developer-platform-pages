@@ -2,97 +2,116 @@
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  Visual effects and creative workflows from your imagination. – Extend, enhance, empower
+#  Digital photo management, unleashed. – Built for speed, easy to share
 
-Opportunities abound for building for After Effects. Extend the capabilities of After Effects using plug-ins, scripts, and panels that integrate seamlessly into existing workflows. Create stunning visual effects, manipulate project elements, and automate complex tasks using After Effects APIs.
+The Adobe Lightroom software development kit (SDK) gives you a clean, fast, lightweight toolset for enhancing and extending the capabilities of the leading image management and sharing software. Plug-ins you build in Lua, the scripting language built into Lightroom, and the Lightroom SDK let you create effects, define image processing presets and brushes, add items to Lightroom menus and dialogs, manipulate metadata, and create new types of web galleries for your images. <br /><br />The guides, documentation, and sample code in the SDK shows you how to leverage Lua to access the Lightroom API, opening the power of the app to your control. Your plug-ins can be given away or sold in the [Adobe Exchange](https://exchange.adobe.com/addons) marketplace where users can browse and install extensions. Download the SDK today and discover the power to enhance and extend Lightroom as you see fit.
 
-* [Get the SDKs](https://console.adobe.io/downloads/ae)
+* [Start building today](https://console.adobe.io/downloads/lr)
 
 
-
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
-
-### Build stunning visual effects
-
-Go beyond built-in effects and templates. Create an effect that hasn’t been thought of before. Build on top of a mature API. Effects can even be made compatible with Premiere Pro.
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
+### A light, clean, <br /> simple coding environment
 
-### Integrate other tools in your workflow
+With Lua, the scripting language, and the Lightroom SDK, you can quickly develop plug-ins in your favorite editing tools or even a simple text editor.
 
-Artists love After Effects not only for what can be done in the application, but for how it connects to other tools in their workflow. Are you thinking of a new way for After Effects to work with other tools? Panels, scripts, and the command-line interface can help you make that connection.
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+
+### Exercise absolute image control
+
+Build Develop presets, custom export settings, metadata management, and more—on individual images and entire image libraries.
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 
-### Automate complex tasks
+### Connect to 3rd party websites
 
-Automate tedious and error-prone steps with APIs to read and write After Effects projects. Scripts and AEGP plug-ins abstract away the file format, providing deep access to project elements.
+Connect Lightroom with 3rd party websites for easy and quick sharing.
 
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Automate complex workflows
-
-Automate After Effects using scripts that run from a menu item or the command line. Add new panels that dock and resize within the After Effects UI. Streamline how media is managed. Simplify the search and ingest of source media, and automate tedious and error-prone steps for final delivery.
-
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![CC icon](images/bridge-teaser1.jpg)
 
-### Manipulate projects
+### Leverage the power of Lua
 
-AEGP plug-ins, panels, and scripts can read and modify nearly every element of After Effects projects and preferences. Manipulate text and shape layers.
+Write extensions built in C++ or JavaScript that use the API to add your own functionality to Dreamweaver. Scripts written in JavaScript can work with C++ extensions or stand on their own.
 
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![CC icon](images/bridge-teaser2.jpg)
 
-### Add and hook into menu items
+### Customize export and publish
 
-Add menu items, hook and trigger After Effects’ internal commands.
+Dreamweaver now supports CEP, which lets you build plug-ins and panels for Dreamweaver using HTML, CSS and JavaScript—no C++ required! Use CEP across Creative Cloud apps to integrate Dreamweaver into cross-app workflows.
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![CC icon](images/bridge-teaser3.jpg)
+
+### Work with metadata
+
+The Dreamweaver API lets you access server-side data, load server-side scripts, and even support new web server models in your extensions.
+
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+
+![Resource 1](images/bridge-teaser4.jpg)
+
+### AEnhance the Lightroom UI
+
+Your extensions can modify the Dreamweaver UI in almost any way you want. Add new items to menus and toolbars or entirely new ones; create your own floating panels, reports, and property inspectors.
+
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+
+![Resource 1](images/bridge-teaser5.jpg)
+
+### Build web engine plug-ins
+
+Package your extensions and upload them to the Adobe Exchange marketplace to monetize your work; or distribute them independently as you wish.
+
+<InlineAlert variant="help" slots="text"/>
+
+I don't know why these aren't aligning.
+
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+
+![+PS Workflow Tools](images/lightroomclassic-extension1.png)
+
+### +PS Workflow Tools
+
+A collection of 130 presets to shorten time during editing.
+
+* [Learn more](https://creative.adobe.com/addons/products/2672#.WTdCcMm1tTY)
+
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![generic logo](images/lightroomclassic-extension1.png)
+![Evlaa](images/lightroomclassic-extension2.png)
 
-### Red Giant Trapcode Suite
+### Evlaa
 
-A set of 11 tools for 3D motion graphics and visual effects.
+Publishing proofs online directly from Lightroom and get client feedback.
 
-* [Learn more](hhttp://www.redgiant.com/products/trapcode-suite/)
-
-
-
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
-![generic logo](images/lightroomclassic-extension2.png)
-
-### Video Copilot Element 3D
-
-Export animations for web as .json files. Render animations in the browser in svg, canvas and html.
-
-* [Learn more](https://www.videocopilot.net/products/element2/)
+* [Learn more](https://creative.adobe.com/addons/products/15323#.WTdCgMm1tTY)
 
 
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![generic logo](images/lightroomclassic-extension3.png)
+![WP LR Syn](images/lightroomclassic-extension3.png)
 
-### Bodymovin
+### WP/LR Syn
 
-Instantly share Creative Cloud files, designs, specs, and notifications all in real time.
+Publish photos to WordPress and keep them in sync.
 
-* [Learn more](http://aescripts.com/bodymovin/)
+* [Learn more](https://creative.adobe.com/addons/products/4932#.WTdCesm1tTY)
 
 
 
@@ -100,7 +119,6 @@ Instantly share Creative Cloud files, designs, specs, and notifications all in r
 
 ![CC banner](images/cc-banner.png)
 
-## Start building for After Effects
+## Start building for Lightroom
 
-
-* [Get the SDKs](https://console.adobe.io/downloads/ae)
+* [Start building today](https://console.adobe.io/downloads/lr)
