@@ -100,7 +100,7 @@ Instantly share Creative Cloud files, designs, specs, and notifications all in r
 
 ![CC banner](images/cc-banner.png)
 
-## Start building Today
+## Start building for After Effects
 
 
-* [Get the Profile SDK](https://console.adobe.io/downloads/br)
+* [Get the SDKs](https://console.adobe.io/downloads/ae)
