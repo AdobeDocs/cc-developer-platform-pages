@@ -3,90 +3,69 @@ title: Home - Creative Cloud
 description: This is the home page of Creative Cloud 
 ---
  
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Images unleashed through your imagination. — Take control and extend Illustrator’s power
+# Documents unleashed, across your organization and over the web. — Build a better document solution 
 
-Extend and enhance Adobe Illustrator to give users power and control over their vector image projects: create custom filters and effects, organize layers, optimize point data, and automate tasks. Import and export custom file formats and process images in bulk.
-
-* [Start building today](https://console.adobe.io/downloads/ai)
-
-
+Use InDesign’s suite of Plug-in, Scripting and Server SDKs, to fully extend and automate InDesign, InCopy, and InDesign Server. Distribute your plug-ins to everyone using Adobe Exchange. <br /><br /> With scripts leverage the power of InDesign to streamline editorial and publishing workflows of your users  
 
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
 
-### Code the way you know
+### Automate document processing 
 
-Build panels in HTML, CSS and JavaScript. Build plug-ins in C++ in your favorite Windows or MacOS development tools. Build scripts in JavaScript, AppleScript, or VBScript.
-
-
-
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
-
-
-### Connect across the web
-
-HTML-based panels for Illustrator can integrate across Creative Cloud apps and with any web service API from Adobe or third-parties.
+Manage disparate text, image, and media assets and build and publish documents dynamically for print, web, and ebook distribution.
 
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-### Enhance and extend
+### Enhance and extend the InDesign UI
 
-The Illustrator API opens the entire application to your control. Your extensions can add new functions, automate workflows, and drive Illustrator the way you want.
+Build plug-ins, panels, and scripts that add custom features and functions: create effects, dynamic layouts, file import and export, and more.
 
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+
+### Leverage the power of InDesign Server
+
+InDesign Server’s multithreaded SOAP engine lets you build complete document management and publishing solutions, delivered across your network and over the web.
+
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![CC icon](images/bridge-teaser1.jpg)
 
-### Edit art directly
+### Integrate with other apps
 
-Parse and manipulate image data to apply custom effects. Select, manipulate, edit and enhance text. Even generate art automatically from point data and layers.
+InDesign supports the Adobe Common Extensibility Platform(CEP), which lets you build scripts and panels that connect InDesign to other Adobe apps. Automate entire multi-app workflows to create documents that incorporate text, images, and media assets.
 
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![CC icon](images/bridge-teaser2.jpg)
 
-### Enhance the UI
+### Import, export, and process documents in XML-compatible format 
 
-Add your own custom tools to the toolbar and functions to the menus. Create HTML-based panels that offer new capabilities and connect to other apps across the web.
+Use InDesign’s IDML, an XML-based format, to manipulate documents and their contents. Process files for import and export, read and write content to databases, parse and place content where you wish.
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![CC icon](images/bridge-teaser3.jpg)
 
-### Embed native controls
+### Automate and add features with scripting
 
-Leverage native components of MacOS or Windows in your plug-ins and panels.
+Create anything from simple automations to complex, cross-platform-compatible feature panels in HTML and JavaScript. InDesign also supports AppleScript and VBScript.
 
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/bridge-teaser4.jpg)
-
-### Roll your own file formats
-
-Add support for specialized file formats to import and export. Parse and process files in bulk.
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/bridge-teaser5.jpg)
-
-#### Use callback functions, timers, and events
-
-Use both scripting and actions to build automations, respond to events, and implement custom call-back functions.
 
 
 <SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
 
 ![CC banner](images/cc-banner.png)
 
-## Start building for Illustrator
+## Start building for InDesign
 
 
-* [Start building today](https://console.adobe.io/downloads/ai)
+* [Get started today](https://console.adobe.io/downloads/id)
