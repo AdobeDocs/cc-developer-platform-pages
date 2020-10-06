@@ -1,3 +1,8 @@
+---
+title: Creative Cloud - Lightroom Classic
+description: This is the home page of Lightroom Classic Lua 
+---
+
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
