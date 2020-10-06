@@ -47,8 +47,9 @@ You’ve got a file open, but not all the embedded fonts are there. Now what? Us
 
 ![CC banner](images/cc-banner.png)
 
-## Integrate Unlimited Fonts
+## Subscribe to the Creative Cloud developer newsletter 
 
-Our platform is a collection of APIs, design advice, and assets that give you the ability to build the Adobe Fonts Library into the experience you have in mind for your application. We’ve got APIs for whatever your appetite is for integration with Adobe Fonts.
+A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
+Creative Cloud family of products.
 
-* [Read the Docs](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html)
+* [Subscribe to the newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html)

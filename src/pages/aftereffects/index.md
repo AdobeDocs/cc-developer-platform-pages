@@ -1,3 +1,8 @@
+---
+title: Creative Cloud - After Effects
+description: This is the home page of After Effects APIs 
+---
+
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
@@ -96,11 +101,13 @@ Instantly share Creative Cloud files, designs, specs, and notifications all in r
 
 
 
-<SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
 ![CC banner](images/cc-banner.png)
 
-## Start building for After Effects
+## Subscribe to the Creative Cloud developer newsletter 
 
+A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
+Creative Cloud family of products.
 
-* [Get the SDKs](https://console.adobe.io/downloads/ae)
+* [Subscribe to the newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html)
