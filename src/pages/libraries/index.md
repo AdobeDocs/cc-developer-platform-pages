@@ -62,7 +62,7 @@ Mural tapped into Creative Cloud Libraries to make sure their customers could ea
 
 ## Get Started with Creative Cloud Libraries
 
-Start connecting your application to Creative Cloud Libraries and the thousands of creative elements that designers and stakeholders are creating using every day.
+Start connecting your application to Creative Cloud Libraries and the thousands of creative elements that designers and stakeholders are creating and using every day.
 
 * [Lorem ipsum](https://adobe.io)
 * [Dolor sit amet](https://adobe.io)
