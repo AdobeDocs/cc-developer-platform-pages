@@ -95,16 +95,6 @@ Nihil Gupta, July 24th 2020
 
 Ash Ryan Arnwine, March 12th 2020
 
-<!-- 
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
-
-[Adobe I/O](https://adobe.io)
-
-![Resource 3](images/resource3.png)
-
-### Creating a Great Adobe XD Plugin Listing 
-
-Rob Kleiman, July 8th 2020 -->
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
