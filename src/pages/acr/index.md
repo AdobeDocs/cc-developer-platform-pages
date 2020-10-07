@@ -61,11 +61,13 @@ Incorporate 3D LUTs into your Camera Raw and Lightroom profiles to product uniqu
 Presets and Profiles created in Camera Raw can also be used in Lightroom and Photoshop. 
 
 
-<SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
 ![CC banner](images/cc-banner.png)
 
-## Start building Today
+## Subscribe to the Creative Cloud developer newsletter 
 
+A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
+Creative Cloud family of products.
 
-* [Get the Profile SDK](https://console.adobe.io/downloads/cr)
+* [Subscribe to the newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html)

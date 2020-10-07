@@ -114,7 +114,7 @@ Instantly share Creative Cloud files, designs, specs, and notifications all in r
 
 
 
-<TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
+<TextBlock slots="video, icons, heading, text, buttons" width="50%" theme="dark" />
 
 [Creative Cloud for a new era](https://www.youtube.com/watch?v=JemJbNJ4ZtU&ab_channel=AdobeCreativeCloud)
 

@@ -101,7 +101,7 @@ Get access to Adobe Stock inside Hootsuite, the most widely used social media ma
 
 The global creative platform gives designers on its platform the ability to easily and seamlessly access the Adobe Stock library of stock images. Learn more >
 
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
+<!-- <ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
 
 [Adobe Tech Blog](https://medium.com/adobetech/adobe-stock-for-developers-913186f89415)
 
@@ -109,11 +109,25 @@ The global creative platform gives designers on its platform the ability to easi
 
 ### Adobe Stock for Developers - Adobe Tech Blog - Medium
 
-Adobe Stock's enterprise grade search API opens new doors to developers, companies, and their users.
+Adobe Stock's enterprise grade search API opens new doors to developers, companies, and their users.-->
 
-<TextBlock slots="video" width="50%" />
+<TextBlock slots="video" />
 
-[Adobe Stock Video](https://youtu.be/uCcgozf0qVE)
+[Adobe Stock Video](https://youtu.be/uCcgozf0qVE) 
+
+<TextBlock slots="video" />
+
+[Adobe Stock Video](https://www.youtube.com/watch?v=uCcgozf0qVE&feature=youtu.be&ab_channel=AdobeDevelopers) 
+
+
+<TextBlock slots="video, heading, text" theme="dark" />
+
+[Creative Cloud for a new era](https://www.youtube.com/watch?v=JemJbNJ4ZtU&ab_channel=AdobeCreativeCloud)
+
+### Partner Success Story
+
+Connect your users to Creative Cloud right from within your mobile or web apps with our service APIs. Give users access to 
+world-class creative assets with the Adobe Stock API, or sign up for early information on our upcoming CC Storage API.
 
 
 

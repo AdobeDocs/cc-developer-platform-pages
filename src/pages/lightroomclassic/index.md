@@ -79,6 +79,15 @@ Your extensions can modify the Dreamweaver UI in almost any way you want. Add ne
 
 Package your extensions and upload them to the Adobe Exchange marketplace to monetize your work; or distribute them independently as you wish.
 
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![Resource 1](images/bridge-teaser5.jpg)
+
+### Build web engine plug-ins
+
+Package your extensions and upload them to the Adobe Exchange marketplace to monetize your work; or distribute them independently as you wish.
+
 <InlineAlert variant="help" slots="text"/>
 
 I don't know why these aren't aligning.
