@@ -9,9 +9,9 @@ description: Connect to the creative system with the Creative Cloud Libraries AP
 
 # Make your application part of the creative system with the Creative Cloud Libraries API
 
-The Creative Cloud Libraries API lets you connect your application to your users creative system. Creative Cloud Libraries helps manage, organize, and keep creative elements like colors, character styles, logos, and images for use in the Creative Cloud apps and connected experiences. 
+The Creative Cloud Libraries API lets you connect your application to your user's creative system. Creative Cloud Libraries helps manage, organize, and keep creative elements like colors, character styles, logos, and images for use in the Creative Cloud apps and connected experiences. 
 
-The API lets your users access their creative elements and brand approved assets from inside your application or lets them easily save elements to a Creative Cloud Library so that they are instantly accessible inside desktop and mobile Creative Cloud apps.
+Jumpstart creativity by giving users access their creative elements and brand approved assets from inside your application or let them easily save elements to a Creative Cloud Library so they are instantly accessible inside desktop and mobile Creative Cloud apps.
 
 * [Get started](https://adobe.io)
 * [Sign up for the newsletter](https://adobe.io)
