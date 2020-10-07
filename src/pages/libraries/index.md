@@ -1,15 +1,17 @@
 ---
-title: Home - Creative Cloud
-description: This is the home page of Creative Cloud 
+title: Home - Creative Cloud Libraries
+description: Connect to the creative system with the Creative Cloud Libraries API
 ---
  
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Lorem ipsum dolor sit amet, est causae aliquip mentitum an.
+# Make your application part of the creative system with the Creative Cloud Libraries API
 
-Lorem ipsum dolor sit amet, sit in munere impedit, summo ubique mei ex. Sed id viderer sanctus abhorreant, mel fastidii detracto lobortis et. Dolorem maiorum sed eu, qui ocurreret vulputate adipiscing in. Pri ea aperiam appellantur, pri ne soleat numquam.
+The Creative Cloud Libraries API lets you connect your application to your user's creative system. Creative Cloud Libraries helps manage, organize, and keep creative elements like colors, character styles, logos, and images for use in the Creative Cloud apps and connected experiences. 
+
+Jumpstart creativity by giving users access their creative elements and brand approved assets from inside your application or let them easily save elements to a Creative Cloud Library so they are instantly accessible inside desktop and mobile Creative Cloud apps.
 
 * [Get started](https://adobe.io)
 * [Sign up for the newsletter](https://adobe.io)
@@ -20,9 +22,9 @@ Lorem ipsum dolor sit amet, sit in munere impedit, summo ubique mei ex. Sed id v
 
 ![MSFT Teams logo](images/msfteams.png)
 
-### Lorem Ipsum
+### CC Libraries in CameraIQ
 
-Quis varius quam quisque id diam vel. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum.
+See how CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences. 
 
 * [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
 
@@ -33,11 +35,11 @@ Quis varius quam quisque id diam vel. Nulla pharetra diam sit amet nisl suscipit
 
 ![JIRA Cloud logo](images/jira.png)
 
-### Dolor Sit Amet
+### CC Libraries in Tiled
 
-Netus et malesuada fames ac turpis egestas sed tempus urna. Sagittis aliquam malesuada bibendum arcu vitae elementum. 
+Learn how Tiled connected with Creative Cloud Libraries to help users create on brand, interactive experiences.  
 
-* [Learn more](https://www.atlassian.com/enterprise/cloud)
+* [Learn more](https://tiled.co/cclibraries/)
 
 
 
@@ -46,9 +48,9 @@ Netus et malesuada fames ac turpis egestas sed tempus urna. Sagittis aliquam mal
 
 ![Slack logo](images/slack.png)
 
-### Consectetur Adipiscing Elit
+### CC Libraries in Mural
 
-Quis varius quam quisque id diam vel. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum. 
+Mural tapped into Creative Cloud Libraries to make sure their customers could easily share their most important assets for visual collaboration. 
 
 * [Learn more](https://slack.com/enterprise)
 
@@ -58,9 +60,9 @@ Quis varius quam quisque id diam vel. Nulla pharetra diam sit amet nisl suscipit
 
 ![CC banner](images/cc-banner.png)
 
-## Get Started Creative Cloud Adipiscing Elit
+## Get Started with Creative Cloud Libraries
 
-Netus et malesuada fames ac turpis egestas sed tempus urna. Sagittis aliquam malesuada bibendum arcu vitae elementum Creative Cloud family of products.
+Start connecting your application to Creative Cloud Libraries and the thousands of creative elements that designers and stakeholders are creating and using every day.
 
 * [Lorem ipsum](https://adobe.io)
 * [Dolor sit amet](https://adobe.io)
