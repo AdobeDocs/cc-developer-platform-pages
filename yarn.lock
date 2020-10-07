@@ -44,19 +44,19 @@
     globby "^11.0.1"
     graphql-fetch "^1.0.1"
 
-"@adobe/gatsby-theme-parliament@^2.1.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@adobe/gatsby-theme-parliament/-/gatsby-theme-parliament-2.2.0.tgz#325d1bddc0b16e9f8f9bdfd99b1e4b180221b6fd"
-  integrity sha512-9/czPRkMD9hbbQrTSPB1usZm76PIXmaLWi8aiA/InWBgALoEsH2g+qiE8En+qNaBjFY/5feQx2/xNMTePx1X6A==
+"@adobe/gatsby-theme-parliament@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@adobe/gatsby-theme-parliament/-/gatsby-theme-parliament-2.3.0.tgz#74f791d6f4bf7ff2b6a9eb6b14d5d15d5f921fee"
+  integrity sha512-pNAwtIfwyWA650fpLIaJDDTIR1bVqgrpwKBp1CSQ9CwrhQe2SY19M088GRYoI5fLu29NlFPBhCvmSpSg7Sp74Q==
   dependencies:
     "@adobe/focus-ring-polyfill" "^0.1.5"
     "@adobe/gatsby-add-launch-script" "^0.0.4"
     "@adobe/gatsby-remark-afm" "^0.8.3"
     "@adobe/gatsby-source-github-file-contributors" "^0.2.0"
     "@adobe/parliament-site-search-index" "^0.0.4"
-    "@adobe/parliament-ui-components" "^2.6.3"
+    "@adobe/parliament-ui-components" "^2.6.5"
     "@adobe/prism-adobe" "^1.0.0"
-    "@adobe/react-spectrum" "^3.3.0"
+    "@adobe/react-spectrum" "^3.4.0"
     "@emotion/core" "^10.0.28"
     "@mdx-js/mdx" "^1.6.6"
     "@mdx-js/react" "^1.6.6"
@@ -78,7 +78,7 @@
     "@spectrum-css/typography" "^2.1.3"
     "@spectrum-css/vars" "^2.3.0"
     "@spectrum-css/well" "^3.0.0-beta.2"
-    "@spectrum-icons/workflow" "^3.1.0"
+    "@spectrum-icons/workflow" "^3.2.0"
     classnames "^2.2.6"
     elasticlunr "^0.9.5"
     gatsby-plugin-catch-links "^2.3.13"
@@ -87,7 +87,7 @@
     gatsby-plugin-mdx "^1.2.42"
     gatsby-plugin-react-helmet-async "^1.0.17-0"
     gatsby-source-filesystem "^2.3.31"
-    mobx "^6.0.0"
+    mobx "^6.0.1"
     prism-react-renderer "^1.1.1"
     prop-types "^15.7.2"
     react-helmet-async "^1.0.6"
@@ -109,7 +109,7 @@
     node-fetch "^2.6.0"
     widdershins "^4.0.1"
 
-"@adobe/parliament-ui-components@^2.6.3":
+"@adobe/parliament-ui-components@^2.6.5":
   version "2.6.5"
   resolved "https://registry.yarnpkg.com/@adobe/parliament-ui-components/-/parliament-ui-components-2.6.5.tgz#fb5006c33c32f2912fbddad91fb00dd59ace6e25"
   integrity sha512-y7V95NjSSJ4as1/rngTYuVXeApVBKdP0z1OezzrDDaN5ZZHcPDNX9hUqJQv2Iv6R4HhVYCSjKpOVn46FqtVCHA==
@@ -168,7 +168,7 @@
   resolved "https://registry.yarnpkg.com/@adobe/react-spectrum-workflow/-/react-spectrum-workflow-1.0.1.tgz#32537652fb52a6ebf8746ad58268520a04b7f553"
   integrity sha512-5BM+oJyP4vjmqAV/HSJYLJzR3wDDbEOMUZEEVeKJ81cKyq0aJ6qF9A9tmsW6jb/73cE7PpLr6vb+xqBqTOYsTw==
 
-"@adobe/react-spectrum@^3.3.0":
+"@adobe/react-spectrum@^3.3.0", "@adobe/react-spectrum@^3.4.0":
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/@adobe/react-spectrum/-/react-spectrum-3.4.0.tgz#0b2cc7863ff53824f81a55525cf1ad0aeba20128"
   integrity sha512-pU4lCegOAvKGvHzuqhEHntB3H+1njjO2qte0TZKR0siyobNM16et6nHIzxq+RdKKEKP+iWxNz4FbqCoC4qBwWg==
@@ -3059,7 +3059,7 @@
     "@adobe/react-spectrum-ui" "^1.0.0"
     "@react-spectrum/icon" "^3.2.0"
 
-"@spectrum-icons/workflow@^3.1.0":
+"@spectrum-icons/workflow@^3.1.0", "@spectrum-icons/workflow@^3.2.0":
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@spectrum-icons/workflow/-/workflow-3.2.0.tgz#3d5c7e124a8967294782c9ae56350996491b2fdd"
   integrity sha512-DCmyyLMfsAL5OpEzsfwBCeoGNcYgnh2vi8bPjBg+Wp/PTAD3RGERc8Len9KDwjntgwLsT8TVPMc5aqFfoWUFRw==
@@ -10547,10 +10547,10 @@ mobx@^5.15.6:
   resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.15.7.tgz#b9a5f2b6251f5d96980d13c78e9b5d8d4ce22665"
   integrity sha512-wyM3FghTkhmC+hQjyPGGFdpehrcX1KOXsDuERhfK2YbJemkUhEB+6wzEN639T21onxlfYBmriA1PFnvxTUhcKw==
 
-mobx@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/mobx/-/mobx-6.0.0.tgz#676fc8dd225d26485d354ff44a1f8d00938b32dc"
-  integrity sha512-bjwqOFkr2FebW0sul7UgbWz4/l7mNvTmE1FPhj95Jeg74v2GSCvtyLeuuiRDF/2bClD9K/P4x/RpLzupbtP7Iw==
+mobx@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/mobx/-/mobx-6.0.1.tgz#ec23520848527bf7834d7b4c0b54b2a8eb6e7c14"
+  integrity sha512-Pk6uJXZ34yqd661yRmS6z/9avm4FOGXpFpVjnEfiYYOsZXnAxv1fpYjxTCEZ9tuwk0Xe1qnUUlgm+rJtGe0YJA==
 
 moment@^2.27.0:
   version "2.29.0"
