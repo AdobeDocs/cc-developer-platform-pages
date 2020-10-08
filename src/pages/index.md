@@ -1,88 +1,67 @@
 ---
 title: Home - Creative Cloud
-description: This is the home page of Creative Cloud 
+description: This is the home page of Creative Cloud
 ---
 
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️ THIS IS THE PAGE ASH IS EDITING 🙅‍♂️🙅‍♂️🙅‍♂️
+# Develop with Adobe Creative Cloud
 
-Adobe Bridge®, integrated digital asset management for Creative Cloud applications, becomes even more powerful with scripted plug-ins you build in industry-standard JavaScript. Automate complex file conversion processes, manipulate metadata in bulk, create custom workspaces and interfaces, and integrate workflows across Adobe CC apps. <br /> <br />The guides, reference documentation, and sample code in the Adobe Bridge SDK show you how to write plug-ins using ExtendScript, the extended standard JavaScript that provides access to the Creative Cloud APIs. Download the SDK today and build that superpowered asset management tool you and your users want.
+Description
 
-* [Start building today](https://console.adobe.io/downloads/br)
+<AnnouncementBlock slots="heading, text, button" />
 
+### Join the Creative Cloud Developer Newsletter
 
+Be the first to hear about API launches, technology updates, marketplace news, and more by joining the Creative Cloud Developer Newsletter.
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+[Join today](http://adobe.ly/devnews)
 
+<TextBlock slots="image, heading, text1, links" />
 
-### Leverage the bulk processing <br /> power of Bridge
+![Screenshot 1](images/intro1.png)
 
-Your plug-ins can script Bridge’s built-in capability to bulk-edit metadata and convert file types. Drive entire asset management processes with a single script.
+## Extend Adobe Creative Cloud apps with plugins
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+Extend Creative Cloud desktop apps like [Photoshop](), [Adobe XD](), [Premiere Pro](), and [InDesign]() through our APIs and SDKs.
 
+- ![Photoshop](images/pr-icon.png) [Photoshop](https://www.adobe.com/products/premiere.html)
+- ![Adobe XD](images/ai-icon.png) [Adobe XD](https://www.adobe.com/products/indesign.html)
+- ![Premiere Pro](images/ai-icon.png) [Premiere Pro](https://www.adobe.com/products/indesign.html)
+- ![InDesign](images/ai-icon.png) [InDesign](https://www.adobe.com/products/indesign.html)
 
-### Remake the UI
+<TextBlock slots="heading, text1, links, image" />
 
-Build custom UI elements in JavaScript that provide your users a fine-tuned interface for executing the power-mode tasks you support.
+## Integrate Creative Cloud Services into your apps
 
-<TextBlock slots="heading, text" width="33%" theme="light" isCentered />
+Bring powerful creative and collaborative features from Creative Cloud right into your own apps and services.
 
+- ![Creative Cloud Libraries](images/pr-icon.png) [Creative Cloud Libraries](https://www.adobe.com/products/premiere.html)
+- ![Adobe Stock](images/ai-icon.png) [Adobe Stock](https://www.adobe.com/products/indesign.html)
+- ![Adobe Fonts](images/ai-icon.png) [Adobe Fonts](https://www.adobe.com/products/indesign.html)
 
-### Bridge across the Creative Cloud
+![Screenshot 1](images/intro1.png)
 
-Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creative Cloud application APIs, to build plug-ins that execute integrated workflows across multiple CC apps.
+<TextBlock slots="image, heading, text1, links" />
 
+![Screenshot 1](images/intro1.png)
 
-<!-- <ProductCard slots="icon, heading, text" theme="light" width="33%" />
+## Distribute to millions of creative users worldwide
 
-![CC icon](images/bridge-teaser1.jpg)
+When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
 
-### Build plug-ins with familiar tools
+- ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+- ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 
-Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of JavaScript extended to expose the API. You can build plug-ins in the ExtendScript Toolkit, Adobe’s rich JavaScript IDE, or your favorite JavaScript toolset. 
-
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/bridge-teaser2.jpg)
-
-### Create your own custom workspaces
-
-The Bridge API gives you full control of the application’s interface, enabling you to build custom workspaces that suit your needs (or those of others as well!)
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/bridge-teaser3.jpg)
-
-### Start from a solid foundation
-
-The Bridge SDK comes with an extensive library of samples that demonstrate how to access and leverage virtually the entire API. No matter what you want to build, you’ll find examples to show you the way.
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/bridge-teaser4.jpg)
-
-### Create your own UI
-
-ExtendScript with the Bridge API lets you define custom windows, palettes, dialogs, and navigation bar items to give users the kind of control you want.
-
-<ProductCard slots="icon, heading, text" theme="light" width="33%" />
-
-![CC icon](images/bridge-teaser5.jpg)
-
-#### Extend across apps
-
-You can build ExtendScript plug-ins that work across Adobe Creative Cloud apps by placing them in the shared scripts folder. Your script can run on application startup and automate workflows across CC. -->
-
-<SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
 ![CC banner](images/cc-banner.png)
 
-## Start building Today
+## Get the latest news for Creative Cloud Developers
 
+With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer regular content for anyone who creates, develops, or builds plugins, extensions, or integrations for the Creative Cloud family of products and services. Get updates in your inbox, in your RSS reader, or both!
 
-* [Get the Profile SDK](https://console.adobe.io/downloads/cr)
+- [Join the newsletter](http://adobe.ly/devnews)
+- [Follow the blog](https://medium.com/adobetech)
