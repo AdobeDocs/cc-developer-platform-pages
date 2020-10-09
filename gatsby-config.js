@@ -10,10 +10,12 @@
  * governing permissions and limitations under the License.
  */
 
-const fs = require('fs');
+const fs = require("fs");
 
-const globalNavFilePath = require.resolve('@adobe/gatsby-theme-parliament/globalNav.json');
-const globalNav = JSON.parse(fs.readFileSync(globalNavFilePath, 'utf8'));
+const globalNavFilePath = require.resolve(
+  "@adobe/gatsby-theme-parliament/globalNav.json"
+);
+const globalNav = JSON.parse(fs.readFileSync(globalNavFilePath, "utf8"));
 
 globalNav.menus = [globalNav.menus[0]];
 
@@ -22,11 +24,11 @@ module.exports = {
     globalNav,
     pages: [
       {
-        title: 'Adobe Creative Cloud',
-        path: '/'
-      }
-    ]
+        title: "Adobe Creative Cloud",
+        path: "/creative-cloud/",
+      },
+    ],
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
-  pathPrefix: process.env.PATH_PREFIX || '/gatsby-theme-parliament-platform'
+  pathPrefix: process.env.PATH_PREFIX || "/gatsby-theme-parliament-platform",
 };
