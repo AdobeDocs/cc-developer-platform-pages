@@ -1,6 +1,6 @@
 ---
-title: Home - Creative Cloud
-description: This is the home page of Creative Cloud
+title: Creative Cloud Developer Platform
+description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts and Adobe Stock.
 ---
 
 <Hero slots="image, heading, text" variant="halfwidth" />
@@ -9,23 +9,23 @@ description: This is the home page of Creative Cloud
 
 # Develop with Adobe Creative Cloud
 
-Description
+Impact creative work for millions of users worldwide with Adobe Creative Cloud. Creative Cloud APIs and SDKs let you create plugins to extend industry-standard apps, like Photoshop and After Effects. Or enhance your own products by integrating APIs from services like Creative Cloud Libraries and Adobe Stock. Then get in front of creative users everywhere by publishing to Creative Cloud Desktop Marketplace and Adobe Enterprise Admin Console. Build and distribute world-class creative tools—all with Adobe Creative Cloud.
 
 <AnnouncementBlock slots="heading, text, button" />
 
 ### Join the Creative Cloud Developer Newsletter
 
-Be the first to hear about API launches, technology updates, marketplace news, and more by joining the Creative Cloud Developer Newsletter.
+Be the first to hear about API launches, technology updates, marketplace news, events, and more by joining the Creative Cloud Developer Newsletter.
 
-[Join today](http://adobe.ly/devnews)
+[Sign up today](http://adobe.ly/devnews)
 
 <TextBlock slots="image, heading, text1, links" />
 
 ![Screenshot 1](images/intro1.png)
 
-## Extend Adobe Creative Cloud apps with plugins
+## Extend Adobe Creative Cloud apps
 
-Extend Creative Cloud desktop apps like [Photoshop](), [Adobe XD](), [Premiere Pro](), and [InDesign]() through our APIs and SDKs.
+Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor their favorite apps to their unique creative needs and collaborative processes.
 
 - ![Photoshop](images/pr-icon.png) [Photoshop](https://www.adobe.com/products/premiere.html)
 - ![Adobe XD](images/ai-icon.png) [Adobe XD](https://www.adobe.com/products/indesign.html)
@@ -34,9 +34,9 @@ Extend Creative Cloud desktop apps like [Photoshop](), [Adobe XD](), [Premiere P
 
 <TextBlock slots="heading, text1, links, image" />
 
-## Integrate Creative Cloud Services into your apps
+## Integrate Creative Cloud services into your apps
 
-Bring powerful creative and collaborative features from Creative Cloud right into your own apps and services.
+Bring powerful creative and collaborative features from Creative Cloud right into your own apps and services. Give users access to their creative content right within your product.
 
 - ![Creative Cloud Libraries](images/pr-icon.png) [Creative Cloud Libraries](https://www.adobe.com/products/premiere.html)
 - ![Adobe Stock](images/ai-icon.png) [Adobe Stock](https://www.adobe.com/products/indesign.html)
@@ -50,7 +50,7 @@ Bring powerful creative and collaborative features from Creative Cloud right int
 
 ## Distribute to millions of creative users worldwide
 
-When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
+Publish plugins and integrations for users to discover in two places: our Creative Cloud Desktop Marketplace, and the Enterprise Admin Console. Find more creative users and teams by creating a marketplace listing.
 
 - ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 - ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
