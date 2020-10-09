@@ -9,13 +9,13 @@ description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and 
 
 # Develop with Adobe Creative Cloud
 
-Impact creative work for millions of users worldwide with Adobe Creative Cloud. Creative Cloud APIs and SDKs let you create plugins to extend industry-standard apps, like Photoshop and After Effects. Or enhance your own products by integrating APIs from services like Creative Cloud Libraries and Adobe Stock. Then get in front of creative users everywhere by publishing to Creative Cloud Desktop Marketplace and Adobe Enterprise Admin Console. Build and distribute world-class creative tools—all with Adobe Creative Cloud.
+With Adobe Creative Cloud, developers can impact creative work for millions of users worldwide. Create inspiring, productivity-driving plugins that are fast, and easy for millions of Creative Cloud users to discover, install, and apply to their creative work. Give users and teams access to their Creative Cloud content and tools right within your own apps and services. Build and distribute world-class creative tools and integrations—all with Adobe Creative Cloud.
 
 <AnnouncementBlock slots="heading, text, button" />
 
 ### Join the Creative Cloud Developer Newsletter
 
-Be the first to hear about API launches, technology updates, marketplace news, events, and more by joining the Creative Cloud Developer Newsletter.
+Be the first to hear about API launches, technology updates, marketplace news, developer events, and more by joining the Creative Cloud Developer Newsletter.
 
 [Sign up today](http://adobe.ly/devnews)
 
@@ -25,7 +25,7 @@ Be the first to hear about API launches, technology updates, marketplace news, e
 
 ## Extend Adobe Creative Cloud apps
 
-Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor their favorite apps to their unique creative needs and collaborative processes.
+Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor these industry-leading apps to their unique creative needs and collaborative processes. [Browse the full list.]()
 
 - ![Photoshop](images/pr-icon.png) [Photoshop](https://www.adobe.com/products/premiere.html)
 - ![Adobe XD](images/ai-icon.png) [Adobe XD](https://www.adobe.com/products/indesign.html)
@@ -36,7 +36,7 @@ Creative Cloud desktop apps offer APIs and SDKs that let you build connected wor
 
 ## Integrate Creative Cloud services into your apps
 
-Bring powerful creative and collaborative features from Creative Cloud right into your own apps and services. Give users access to their creative content right within your product.
+With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.]()
 
 - ![Creative Cloud Libraries](images/pr-icon.png) [Creative Cloud Libraries](https://www.adobe.com/products/premiere.html)
 - ![Adobe Stock](images/ai-icon.png) [Adobe Stock](https://www.adobe.com/products/indesign.html)
@@ -50,18 +50,48 @@ Bring powerful creative and collaborative features from Creative Cloud right int
 
 ## Distribute to millions of creative users worldwide
 
-Publish plugins and integrations for users to discover in two places: our Creative Cloud Desktop Marketplace, and the Enterprise Admin Console. Find more creative users and teams by creating a marketplace listing.
+Publish plugins and integrations for users and teams to discover and install on the Creative Cloud Desktop Marketplace and the Enterprise Admin Console.
 
 - ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 - ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 
+<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
+
+[Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
+
+![Adobe Fund for Design 1](images/adobe-fund-for-design-1.jpeg)
+
+### Adobe Fund for Design: Investing in developers with creativity in their code
+
+Apply for equity investments and grants from Adobe for your project.
+
+<ResourceCard slots="link, image, heading, text" width="50%" />
+
+[Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
+
+![Adobe Fund for Design 2](images/adobe-fund-for-design-2.jpeg)
+
+### Supporting Creative Cloud Developers with the Adobe Fund for Design
+
+Commissioned projects, and our commitment to developers from underrepresented communities.
+
+<ResourceCard slots="link, image, heading, text" width="50%" />
+
+[One Year of the Adobe Fund for Design: Supporting, Uplifting and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
+
+![Adobe Fund for Design 3](images/adobe-fund-for-design-3.jpeg)
+
+### One Year of the Adobe Fund for Design
+
+Supporting, Uplifting and Empowering Innovators in the Creative Community
+
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
-![CC banner](images/cc-banner.png)
+![Creative Cloud banner](images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
-With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer regular content for anyone who creates, develops, or builds plugins, extensions, or integrations for the Creative Cloud family of products and services. Get updates in your inbox, in your RSS reader, or both!
+With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer regular content for anyone who creates plugins and integrations for the Creative Cloud family of products and services. Get updates in your inbox, in your RSS reader, or both!
 
 - [Join the newsletter](http://adobe.ly/devnews)
 - [Follow the blog](https://medium.com/adobetech)
