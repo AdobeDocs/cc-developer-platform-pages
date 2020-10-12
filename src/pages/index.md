@@ -85,6 +85,43 @@ Commissioned projects, and our commitment to developers from underrepresented co
 
 Supporting, Uplifting and Empowering Innovators in the Creative Community
 
+<!-- Product cards -->
+
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+
+![CC icon](images/cc-icon.png)
+
+#### After Effects
+
+CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
+
+- [Learn more](https://adobe.io)
+- [View docs](https://adobe.io)
+
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+
+![CC icon](images/cc-icon.png)
+
+#### Animate
+
+CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
+
+- [Learn more](https://adobe.io)
+- [View docs](https://adobe.io)
+
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
+
+![CC icon](images/cc-icon.png)
+
+#### Audition
+
+CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
+
+- [Learn more](https://adobe.io)
+- [View docs](https://adobe.io)
+
+<!-- Summary block -->
+
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
 ![Creative Cloud banner](images/cc-banner.png)
