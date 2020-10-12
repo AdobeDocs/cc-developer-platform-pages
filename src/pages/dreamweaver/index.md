@@ -1,8 +1,8 @@
 ---
 title: Home - Creative Cloud
-description: This is the home page of Creative Cloud 
+description: This is the home page of Creative Cloud
 ---
- 
+
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
@@ -11,25 +11,19 @@ description: This is the home page of Creative Cloud
 
 Dreamweaver provides its own API as well as Common Extensibility Platform (CEP), and offers you the flexibility of using C++, HTML, CSS, and JS to build extensions for Dreamweaver. You can extend the Dreamweaver UI, add powerful features for building web apps and automate entire cross-application workflows.
 
-* [Start building today](https://helpx.adobe.com/dreamweaver/apiref/topics.html)
-
+- [Start building today](https://helpx.adobe.com/dreamweaver/apiref/topics.html)
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
-
 
 ### Build custom web development tools
 
 Your Dreamweaver extensions can import database data into web forms, auto-generate web layouts from designs, provide easy construction of web UI components, create custom color palettes, and much more. Your only limit is your imagination.
 
-
-
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
-
 
 ### Drive web development through automation
 
 Both the Dreamweaver API and CEP give you the power to develop automatic processes and workflows that function not only within Dreamweaver, but across Adobe CC apps.
-
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
@@ -44,7 +38,6 @@ Use CEP and the web development skills you already have to create your own HTML-
 ### Extend Dreamweaver using C++ and JavaScript
 
 Write extensions built in C++ or JavaScript that use the API to add your own functionality to Dreamweaver. Scripts written in JavaScript can work with C++ extensions or stand on their own.
-
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
@@ -78,12 +71,13 @@ Your extensions can modify the Dreamweaver UI in almost any way you want. Add ne
 
 Package your extensions and upload them to the Adobe Exchange marketplace to monetize your work; or distribute them independently as you wish.
 
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
-<SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
+![CC banner](../images/cc-banner.png)
 
-![CC banner](images/cc-banner.png)
+## Get the latest news for Creative Cloud Developers
 
-## Start building for Dreamweaver
+With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer regular content for anyone who creates plugins and integrations for the Creative Cloud family of products and services. Get updates in your inbox, in your RSS reader, or both!
 
-
-* [Start building today](https://helpx.adobe.com/dreamweaver/apiref/topics.html)
+- [Join the newsletter](http://adobe.ly/devnews)
+- [Follow the blog](https://medium.com/adobetech)

@@ -1,19 +1,17 @@
 ---
 title: Creative Cloud - Premiere Pro
-description: This is the home page of Premiere Pro APIs 
+description: This is the home page of Premiere Pro APIs
 ---
 
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  Build your favorite new feature in the industry-leading editing software. - Extend, enhance, empower
+# Build your favorite new feature in the industry-leading editing software. - Extend, enhance, empower
 
 Seamlessly connect tools in your workflow using Premiere Pro APIs. Automate complex tasks, communicate with external hardware, add support for new file formats and codecs, design new effects and transitions, and add panels that seamlessly fit into the editing workspace.
 
-* [Get the SDKs](https://console.adobe.io/downloads/pr)
-
-
+- [Get the SDKs](https://console.adobe.io/downloads/pr)
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
@@ -23,8 +21,7 @@ Build panels that streamline how media is managed. Simplify the search and inges
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-
-### Add support for new file formats 
+### Add support for new file formats
 
 Add importer and/or exporter plug-ins to work directly with new file formats and codecs without transcoding.
 
@@ -42,12 +39,11 @@ Use the transmit API to send video and audio from the Program Monitor anywhere. 
 
 Extend the capabilities of After Effects plug-ins running in Premiere Pro, enabling them to be applied as transitions, and adding GPU rendering interoperability.
 
-
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![CC icon](images/bridge-teaser2.jpg)
 
-### Transmit the Premiere Pro Monitor <br /> to any destination 
+### Transmit the Premiere Pro Monitor <br /> to any destination
 
 Mercury Transmit plug-ins can send video, audio, and closed captioning to any external device or connection.
 
@@ -55,7 +51,7 @@ Mercury Transmit plug-ins can send video, audio, and closed captioning to any ex
 
 ![CC icon](images/bridge-teaser3.jpg)
 
-### Manage your metadata 
+### Manage your metadata
 
 Get and set all metadata associated with project items, including all supported marker types and Premiere Pro private project metadata.
 
@@ -63,7 +59,7 @@ Get and set all metadata associated with project items, including all supported 
 
 ![CC icon](images/bridge-teaser4.jpg)
 
-### Preview external content 
+### Preview external content
 
 Set up the Premiere Pro Source Monitor to preview footage in any supported format, even without bringing the footage into the current project.
 
@@ -71,7 +67,7 @@ Set up the Premiere Pro Source Monitor to preview footage in any supported forma
 
 ![CC icon](images/bridge-teaser5.jpg)
 
-#### Build across apps with <br /> standard web tools 
+#### Build across apps with <br /> standard web tools
 
 Premiere Pro supports the Adobe Common Extensibility Platform (CEP), which lets you build extensions using standard HTML, CSS and JavaScript. Connect to any third-party web services you like, use standard web frameworks, and even script across Adobe CC applications.
 
@@ -79,50 +75,43 @@ Premiere Pro supports the Adobe Common Extensibility Platform (CEP), which lets 
 
 I don't know why these aren't aligning.
 
-
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![generic logo](images/premierpro-extensions1-resized.jpg)
 
-### Frame.io 
+### Frame.io
 
 A real-time, connected solution for collaboration with editors, producers and clients.
 
-* [Learn more](https://frame.io/premiere)
-
-
-
+- [Learn more](https://frame.io/premiere)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![generic logo](images/premierpro-extensions2-resized.png)
 
-### Pond5 
+### Pond5
 
 An easy way to find, test, and buy footage, music, and sound effects for your project.
 
-* [Learn more](https://creative.adobe.com/addons/products/13587#.WTW5vDOZNE4)
-
-
-
+- [Learn more](https://creative.adobe.com/addons/products/13587#.WTW5vDOZNE4)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![generic logo](images/aftereffects-extension.jpg)
 
-### FilmImpact 
+### FilmImpact
 
 Choose from various packs to get transitions and motion for your videos.
 
-* [Learn more](https://www.filmimpact.net/plugins)
+- [Learn more](https://www.filmimpact.net/plugins)
 
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
+![CC banner](../images/cc-banner.png)
 
-<SummaryBlock slots="image, heading, buttons" background="rgb(246, 16, 27)" />
+## Get the latest news for Creative Cloud Developers
 
-![CC banner](images/cc-banner.png)
+With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer regular content for anyone who creates plugins and integrations for the Creative Cloud family of products and services. Get updates in your inbox, in your RSS reader, or both!
 
-## Start building for Premiere Pro
-
-
-* [Get the SDKs](https://console.adobe.io/downloads/pr)
+- [Join the newsletter](http://adobe.ly/devnews)
+- [Follow the blog](https://medium.com/adobetech)
