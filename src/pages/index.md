@@ -55,6 +55,12 @@ Publish plugins and integrations for users and teams to discover and install on 
 - ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 - ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 
+<TitleBlock slots="heading, text" theme="light" />
+
+# The Adobe Fund for Design
+
+Since 2018, the Adobe Fund for Design has provided equity investments and grants to people and companies who want to push boundaries and help shape the future of design and creativity. Fund recipients also receive expert advice, early access to products and technology, go-to-market support, and more.
+
 <ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
@@ -86,6 +92,11 @@ Commissioned projects, and our commitment to developers from underrepresented co
 Supporting, Uplifting and Empowering Innovators in the Creative Community
 
 <!-- Product cards -->
+<TitleBlock slots="heading, text" theme="light" />
+
+# Extensible Creative Cloud products and services
+
+Many creative cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
 
 <ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
