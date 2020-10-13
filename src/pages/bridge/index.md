@@ -2,16 +2,13 @@
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  Digital asset management, superpowered by scripting. <br /> Build What’s Next in Bridge
+# Digital asset management, superpowered by scripting. <br /> Build What’s Next in Bridge
 
 Adobe Bridge®, integrated digital asset management for Creative Cloud applications, becomes even more powerful with scripted plug-ins you build in industry-standard JavaScript. Automate complex file conversion processes, manipulate metadata in bulk, create custom workspaces and interfaces, and integrate workflows across Adobe CC apps. <br /> <br />The guides, reference documentation, and sample code in the Adobe Bridge SDK show you how to write plug-ins using ExtendScript, the extended standard JavaScript that provides access to the Creative Cloud APIs. Download the SDK today and build that superpowered asset management tool you and your users want.
 
-* [Start building today](https://console.adobe.io/downloads/br)
-
-
+- [Start building today](https://console.adobe.io/downloads/br)
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
-
 
 ### Leverage the bulk processing <br /> power of Bridge
 
@@ -19,18 +16,15 @@ Your plug-ins can script Bridge’s built-in capability to bulk-edit metadata an
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-
 ### Remake the UI
 
 Build custom UI elements in JavaScript that provide your users a fine-tuned interface for executing the power-mode tasks you support.
 
 <TextBlock slots="heading, text" width="33%" theme="light" isCentered />
 
-
 ### Bridge across the Creative Cloud
 
 Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creative Cloud application APIs, to build plug-ins that execute integrated workflows across multiple CC apps.
-
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
@@ -38,8 +32,7 @@ Using ExtendScript, Adobe’s enhanced JavaScript that provides access to Creati
 
 ### Build plug-ins with familiar tools
 
-Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of JavaScript extended to expose the API. You can build plug-ins in the ExtendScript Toolkit, Adobe’s rich JavaScript IDE, or your favorite JavaScript toolset. 
-
+Adobe Bridge plug-ins are built in ExtendScript, Adobe’s implementation of JavaScript extended to expose the API. You can build plug-ins in the ExtendScript Toolkit, Adobe’s rich JavaScript IDE, or your favorite JavaScript toolset.
 
 <ProductCard slots="icon, heading, text" theme="light" width="33%" />
 
@@ -79,5 +72,15 @@ You can build ExtendScript plug-ins that work across Adobe Creative Cloud apps b
 
 ## Start building Today
 
+- [Get the Profile SDK](https://console.adobe.io/downloads/br)
 
-* [Get the Profile SDK](https://console.adobe.io/downloads/br)
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+
+![CC banner](../images/cc-banner.png)
+
+## Get the latest news for Creative Cloud Developers
+
+With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer regular content for anyone who creates plugins and integrations for the Creative Cloud family of products and services. Get updates in your inbox, in your RSS reader, or both!
+
+- [Join the newsletter](http://adobe.ly/devnews)
+- [Follow the blog](https://medium.com/adobetech)
