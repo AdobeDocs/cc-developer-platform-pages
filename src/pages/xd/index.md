@@ -1,64 +1,61 @@
 ---
-title: Home - Creative Cloud
-description: This is the home page of Creative Cloud
+title: Adobe XD APIs for developers and scripters
+description: Extend Adobe XD by creating plugins and cloud integrations
 ---
 
 <Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
-# Creativity for all
+# Extend Adobe XD with plugins and integrations
 
 ![XD icon](../images/icons/xd-icon.png)
 
-Creative Cloud services include tools and capabilities to streamline your workflows so that you, your team, and your stakeholders stay perfectly in sync across projects of any size
+Adobe XD's powerful API platform lets developers and users extend XD within the app, or in the cloud. Automate complex tasks, modify and generate document contents, integrate with external services, and more. <br /><br /> Join a world-wide community of developers and power-users, and supercharge the future of design.
 
-- [Get started](https://adobe.io)
-- [Sign up for the newsletter](https://adobe.io)
-
-<AnnouncementBlock slots="heading, text, button" />
-
-### Try out the magic of Photoshop
-
-Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time spent in each app, freeing you up for more creative time.
-
-[Demo](https://www.adobe.io/apis/creativecloud/photo-imaging-api/api-demo.html)
-
-<TextBlock slots="image, heading, text1, text2, links" />
-
-![Screenshot 1](images/intro1.png)
-
-### Extend Adobe CC Flagship Apps
-
-Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs.
-Be sure to check out [Common Extensibility Platform (CEP)](https://www.adobe.io/apis/creativecloud/cep.html), which lets you build custom UI panels for multiple CC apps at once.
-
-When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users.
-And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
-
-- ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
-- ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
-- ![Adobe After Effect](images/ae-icon.png) [Adobe After Effect](https://www.adobe.com/products/aftereffects.html)
-
-<TextBlock slots="heading, text, buttons, links, image"/>
-
-### Start Building Adobe XD Plugins
-
-Create plugins for Adobe XD that push the boundaries of experience design by adding new features to the app, automating workflows, connecting XD to external services, and more—all on a quick, modern JavaScript engine with native UI components.
-When you’re ready, you can ship your plugin to XD users right from within the app.
-
-- [Get started](https://adobe.io)
-- [Sign up for the newsletter](https://adobe.io)
-
-* [No Icon Product](https://www.adobe.com/products/premiere.html)
-
-![Screenshot 2](images/intro2.png)
+- [See what's possible](http://adobexdplatform.com)
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Collaborate better with Content Cloud APIs
+### Push the boundaries of experience design with UXP Plugin APIs
 
-With the Cloud Content APIs, you can bring design work created in XD directly to your product or service.
+Add new features to Adobe XD, automate workflows, connect XD to external services, create plugin UI with native controls, and more. All on UXP—Adobe's quick, modern HTML, CSS, and JavaScript engine—[available in Adobe XD](https://adobexdplatform.com/plugin-docs/).
+
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+
+![Overflow logo](images/overflow.png)
+
+### Overflow
+
+Empowers designers to design, present, and share beautiful user flow diagrams that tell a story.
+
+- [Learn more]()
+
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+
+![Stark logo](images/stark.png)
+
+### Stark
+
+Helps you design and build products that are accessible, ethical, and inclusive.
+
+- [Learn more]()
+
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+
+![Slack logo](images/user-testing.png)
+
+### UserTesting
+
+On-demand human insights platform to test prototypes and get feedback from real users.
+
+- [Learn more]()
+
+<TitleBlock slots="heading, text" theme="light" />
+
+### Collaborate better with XD Content Cloud APIs
+
+With the [XD Cloud Content APIs](https://adobexdplatform.com/cloud-content-api-docs/), you can bring design work created in XD directly to your product or service.
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -104,170 +101,6 @@ world-class creative assets with the Adobe Stock API, or sign up for early infor
 
 - [Learn more](https://adobe.io)
 - [Sign up for partner program](https://adobe.io)
-
-<TitleBlock slots="heading, text" />
-
-### Blogs and resources
-
-With the Cloud Content APIs, you can bring design work created in XD directly to your product or service.
-
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
-
-[Adobe I/O](https://adobe.io)
-
-![Resource 3](images/resource3.png)
-
-### Creating a Great Adobe XD Plugin Listing
-
-Rob Kleiman, July 8th 2020
-
-<ResourceCard slots="link, image, heading, text" width="50%" />
-
-[Adobe I/O](https://adobe.io)
-
-![Resource 1](images/resource1.png)
-
-### Pattern Builder: A Behind the Scenes Look at Adobe Capture
-
-Nihil Gupta, July 24th 2020
-
-<ResourceCard slots="link, image, heading, text" width="50%" />
-
-[Adobe I/O](https://adobe.io)
-
-![Resource 1](images/resource2.png)
-
-### Photoshop Extensibility Enters a New Era Soon: How to get Involved Early
-
-Ash Ryan Arnwine, March 12th 2020
-
-<TitleBlock slots="heading" theme="light" />
-
-## Get started building with Creative Cloud
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
