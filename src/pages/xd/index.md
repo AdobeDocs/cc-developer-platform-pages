@@ -9,7 +9,7 @@ description: This is the home page of Creative Cloud
 
 # Creativity for all
 
-![Creative Cloud icon](images/cc-icon.png)
+![XD icon](../images/icons/xd-icon.png)
 
 Creative Cloud services include tools and capabilities to streamline your workflows so that you, your team, and your stakeholders stay perfectly in sync across projects of any size
 

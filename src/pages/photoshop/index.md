@@ -3,11 +3,13 @@ title: Photoshop APIs for developers and scripters
 description: Extend and integrate with Photoshop like never before
 ---
 
-<Hero slots="image, heading, text" variant="halfwidth" />
+<Hero slots="image, heading, icon, text" variant="halfwidth" />
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
 # Photoshop is extensibile like never before
+
+![Photoshop icon](../images/icons/ps-icon.png)
 
 The creative world runs on Photoshop. With our APIs and SDKs, developers can harness the power of the world’s best imaging and graphic design software to transform image editing workflows for yourself or creatives around the world.
 
