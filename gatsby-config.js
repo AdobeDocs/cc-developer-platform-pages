@@ -17,7 +17,7 @@ const globalNavFilePath = require.resolve(
 );
 const globalNav = JSON.parse(fs.readFileSync(globalNavFilePath, "utf8"));
 
-globalNav.menus = [globalNav.menus[0]];
+globalNav.menus = [globalNav.menus[2]];
 
 module.exports = {
   siteMetadata: {
