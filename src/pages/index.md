@@ -11,7 +11,7 @@ description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and 
 
 ![Creative Cloud banner](images/cc-icon.png)
 
-With Adobe Creative Cloud, developers can impact creative work for millions of users worldwide. Create inspiring, productivity-driving plugins that are fast, and easy for millions of Creative Cloud users to discover, install, and apply to their creative work. Give users and teams access to their Creative Cloud content and tools right within your own apps and services. <br /><br /> Build and distribute world-class creative tools and integrations—all with Adobe Creative Cloud.
+Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
 
 <AnnouncementBlock slots="heading, text, button" />
 
@@ -27,7 +27,7 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 ## Extend Adobe Creative Cloud apps
 
-Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor these industry-leading apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
+Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that are easy to discover, install, and update. Give teams and individuals the power to tailor industry-leading creative apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
 
 - ![Photoshop](images/icons/ps-icon.png) [Photoshop](photoshop)
 - ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](xd)
@@ -43,15 +43,15 @@ With Creative Cloud service APIs, developers can create integrations that enable
 - [Adobe Stock](https://www.adobe.io/apis/creativecloud/stock.html)
 - [Adobe Fonts](fonts)
 
-![Screenshot 1](images/intro1.png)
+![Camera IQ integrates the CC Libraries API](images/cc-integrate.png)
 
 <TextBlock slots="image, heading, text1, links" />
 
-![Screenshot 1](images/cc-desktop-marketplace-1.png)
+![Creative Cloud Desktop Marketplace](images/cc-desktop-marketplace-1.png)
 
 ## Distribute to millions of creative users worldwide
 
-Publish plugins and integrations for users and teams to discover and install on the Creative Cloud Desktop Marketplace and the Enterprise Admin Console.
+Publish plugins and integrations for teams and individuals to discover and install on the Creative Cloud Desktop Marketplace and the Enterprise Admin Console. Get your work in front of creatives everywhere by distributing with Creative Cloud.
 
 - [Adobe Exchange](https://exchange.adobe.com/creativecloud.html)
 
