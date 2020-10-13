@@ -5,7 +5,7 @@ description: This is the home page of Creative Cloud
 
 <Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](../images/cc-hero.png)
 
 # Creativity for all
 

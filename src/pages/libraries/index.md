@@ -5,7 +5,7 @@ description: Connect to the creative system with the Creative Cloud Libraries AP
 
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](../images/cc-hero.png)
 
 # Make your application part of the creative system with the Creative Cloud Libraries API
 

@@ -5,7 +5,7 @@ description: Adobe Fonts APIs
 
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](../images/cc-hero.png)
 
 # Integrate Unlimited Fonts
 
