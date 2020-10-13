@@ -27,22 +27,21 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 ## Extend Adobe Creative Cloud apps
 
-Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor these industry-leading apps to their unique creative needs and collaborative processes. [Browse the full list.]()
+Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that let teams and users tailor these industry-leading apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
 
-- ![Photoshop](images/pr-icon.png) [Photoshop](https://www.adobe.com/products/premiere.html)
-- ![Adobe XD](images/ai-icon.png) [Adobe XD](https://www.adobe.com/products/indesign.html)
-- ![Premiere Pro](images/ai-icon.png) [Premiere Pro](https://www.adobe.com/products/indesign.html)
-- ![InDesign](images/ai-icon.png) [InDesign](https://www.adobe.com/products/indesign.html)
+- ![Photoshop](images/icons/ps-icon.png) [Photoshop](photoshop)
+- ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](xd)
+- ![InDesign](images/icons/id-icon.png) [InDesign](https://www.adobe.io/apis/creativecloud/indesign.html)
 
 <TextBlock slots="heading, text1, links, image" />
 
 ## Integrate Creative Cloud services into your apps
 
-With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.]()
+With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.](#api-list)
 
-- ![Creative Cloud Libraries](images/pr-icon.png) [Creative Cloud Libraries](https://www.adobe.com/products/premiere.html)
-- ![Adobe Stock](images/ai-icon.png) [Adobe Stock](https://www.adobe.com/products/indesign.html)
-- ![Adobe Fonts](images/ai-icon.png) [Adobe Fonts](https://www.adobe.com/products/indesign.html)
+- [Creative Cloud Libraries](libraries)
+- [Adobe Stock](https://www.adobe.io/apis/creativecloud/stock.html)
+- [Adobe Fonts](fonts)
 
 ![Screenshot 1](images/intro1.png)
 
@@ -54,8 +53,7 @@ With Creative Cloud service APIs, developers can create integrations that enable
 
 Publish plugins and integrations for users and teams to discover and install on the Creative Cloud Desktop Marketplace and the Enterprise Admin Console.
 
-- ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
-- ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
+- [Adobe Exchange](https://exchange.adobe.com/creativecloud.html)
 
 <TitleBlock slots="heading, text" theme="light" />
 
@@ -94,6 +92,7 @@ Commissioned projects, and our commitment to developers from underrepresented co
 Supporting, Uplifting and Empowering Innovators in the Creative Community
 
 <!-- Product cards -->
+<div id="api-list"></div>
 <TitleBlock slots="heading, text" theme="light" />
 
 # Extensible Creative Cloud products and services
