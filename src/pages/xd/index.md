@@ -29,7 +29,7 @@ Add new features to Adobe XD, automate workflows, connect XD to external service
 
 Empowers designers to design, present, and share beautiful user flow diagrams that tell a story.
 
-- [Learn more]()
+- [Try it in XD](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=232cee78)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -39,7 +39,7 @@ Empowers designers to design, present, and share beautiful user flow diagrams th
 
 Helps you design and build products that are accessible, ethical, and inclusive.
 
-- [Learn more]()
+- [Try it in XD](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=6cbf275e)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -49,7 +49,7 @@ Helps you design and build products that are accessible, ethical, and inclusive.
 
 On-demand human insights platform to test prototypes and get feedback from real users.
 
-- [Learn more]()
+- [Try it in XD](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=713b61ec)
 
 <TitleBlock slots="heading, text" theme="light" />
 
@@ -65,7 +65,7 @@ With the [XD Cloud Content APIs](https://adobexdplatform.com/cloud-content-api-d
 
 Easily share Creative Cloud assets and files, and get comment notifications on your prototypes.
 
-- [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
+- [Learn more](https://www.adobe.com/creativecloud/integrations/creative-cloud-microsoft-teams.html)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -75,7 +75,7 @@ Easily share Creative Cloud assets and files, and get comment notifications on y
 
 Make designer to developer handoffs easy. Find the latest designs and specs and get thumbnail previews and asset info.
 
-- [Learn more](https://www.atlassian.com/enterprise/cloud)
+- [Learn more](https://blog.adobe.com/en/publish/2019/03/12/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows.html#gs.i0h7f4)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -85,7 +85,7 @@ Make designer to developer handoffs easy. Find the latest designs and specs and 
 
 Instantly share Creative Cloud files, designs, specs, and notifications all in real time.
 
-- [Learn more](https://slack.com/enterprise)
+- [Learn more](https://slack.com/apps/AQRRGUV24-adobe-xd)
 
 <TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
 
@@ -99,8 +99,7 @@ Instantly share Creative Cloud files, designs, specs, and notifications all in r
 Connect your users to Creative Cloud right from within your mobile or web apps with our service APIs. Give users access to
 world-class creative assets with the Adobe Stock API, or sign up for early information on our upcoming CC Storage API.
 
-- [Learn more](https://adobe.io)
-- [Sign up for partner program](https://adobe.io)
+- [Learn more](https://theblog.adobe.com/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows/)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
