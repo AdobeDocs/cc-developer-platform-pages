@@ -47,7 +47,7 @@ With Creative Cloud service APIs, developers can create integrations that enable
 
 <TextBlock slots="image, heading, text1, links" />
 
-![Screenshot 1](images/intro1.png)
+![Screenshot 1](images/cc-desktop-marketplace-1.png)
 
 ## Distribute to millions of creative users worldwide
 
