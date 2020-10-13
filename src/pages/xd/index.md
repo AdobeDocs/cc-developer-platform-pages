@@ -53,7 +53,7 @@ On-demand human insights platform to test prototypes and get feedback from real 
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Collaborate better with XD Content Cloud APIs
+### Collaborate better with XD Cloud Content APIs
 
 With the [XD Cloud Content APIs](https://adobexdplatform.com/cloud-content-api-docs/), you can bring design work created in XD directly to your product or service.
 
@@ -75,7 +75,7 @@ Easily share Creative Cloud assets and files, and get comment notifications on y
 
 Make designer to developer handoffs easy. Find the latest designs and specs and get thumbnail previews and asset info.
 
-- [Learn more](https://blog.adobe.com/en/publish/2019/03/12/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows.html#gs.i0h7f4)
+- [Learn more](https://blog.adobe.com/en/publish/2019/03/12/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows.html)
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
@@ -89,15 +89,14 @@ Instantly share Creative Cloud files, designs, specs, and notifications all in r
 
 <TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
 
-[Creative Cloud for a new era](https://www.youtube.com/watch?v=JemJbNJ4ZtU&ab_channel=AdobeCreativeCloud)
+[Adobe XD for Jira Integration](https://www.youtube.com/watch?v=bEIbaZ8DtcY)
 
 - ![Adobe](images/adobe.png)
 - ![Microsoft](images/msft.png)
 
-### Partner Success Story
+### Adobe XD + Jira Software Cloud
 
-Connect your users to Creative Cloud right from within your mobile or web apps with our service APIs. Give users access to
-world-class creative assets with the Adobe Stock API, or sign up for early information on our upcoming CC Storage API.
+The Adobe XD and Jira Software Cloud integration uses the XD Cloud Content APIs to let designers associate XD prototypes and design specs with Jira issues. This keeps projects organized while providing developers with everything they need to know in the environment they know.
 
 - [Learn more](https://theblog.adobe.com/adobe-xd-for-jira-cloud-streamline-design-to-development-workflows/)
 
