@@ -7,9 +7,9 @@ description: Connect to the creative system with the Creative Cloud Libraries AP
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
-# Make your application part of the creative system with the Creative Cloud Libraries API
+# Accelerate Creativity with the Creative Cloud Libraries API
 
-The Creative Cloud Libraries API lets you connect your application to your user's creative system. Creative Cloud Libraries helps manage, organize, and keep creative elements like colors, character styles, logos, and images for use in the Creative Cloud apps and connected experiences. <br /><br /> Jumpstart creativity by giving users access their creative elements and brand approved assets from inside your application or let them easily save elements to a Creative Cloud Library so they are instantly accessible inside desktop and mobile Creative Cloud apps.
+Creative Cloud Libraries manage, organize, and keep elements of your user’s creative system like colors, character styles, logos, and images for use in Creative Cloud apps and connected experiences. With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your user’s creative system. This helps them work more efficiently by providing access to those creative elements inside your application and connecting your application back to the Creative Cloud products.
 
 - [Get started](https://adobe.io)
 - [Sign up for the newsletter](https://adobe.io)
@@ -20,7 +20,7 @@ The Creative Cloud Libraries API lets you connect your application to your user'
 
 ### CC Libraries in CameraIQ
 
-See how CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences.
+CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences.
 
 - [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
 
@@ -30,7 +30,7 @@ See how CameraIQ is using Creative Cloud Libraries to help creatives and markete
 
 ### CC Libraries in Tiled
 
-Learn how Tiled connected with Creative Cloud Libraries to help users create on brand, interactive experiences.
+Tiled connected Creative Cloud Libraries to help users create on brand, interactive experiences.
 
 - [Learn more](https://tiled.co/cclibraries/)
 
