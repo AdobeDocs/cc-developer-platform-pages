@@ -23,7 +23,7 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 <TextBlock slots="image, heading, text1, links" />
 
-![Screenshot 1](images/cc-extend-1.png)
+![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-1.png)
 
 ## Extend Adobe Creative Cloud apps
 
@@ -51,9 +51,9 @@ With Creative Cloud service APIs, developers can create integrations that enable
 
 ## Distribute to millions of creative users worldwide
 
-Publish plugins and integrations for teams and individuals to discover and install on the Creative Cloud Desktop Marketplace and the Enterprise Admin Console. Get your work in front of creatives everywhere by distributing with Creative Cloud.
+Publish plugins and integrations for teams and individuals to discover and install on the Creative Cloud Plugin Marketplace and the Enterprise Admin Console. Get your work in front of creatives everywhere by distributing with Creative Cloud.
 
-- [Adobe Exchange](https://exchange.adobe.com/creativecloud.html)
+- [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
 <TitleBlock slots="heading, text" theme="light" />
 
