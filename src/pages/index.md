@@ -23,7 +23,7 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 <TextBlock slots="image, heading, text1, links" />
 
-![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-1.png)
+![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-3.png)
 
 ## Extend Adobe Creative Cloud apps
 
