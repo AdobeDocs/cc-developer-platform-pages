@@ -11,7 +11,7 @@ description: Extend and integrate with Photoshop like never before
 
 ![Photoshop icon](../images/icons/ps-icon.png)
 
-The creative world runs on Photoshop—and with Photoshop APIs and SDKs, developers can take it even further. Harness the power of the world’s best imaging and graphic design software to transform image editing workflows with plugins and integrations for users everywhere.
+The creative world runs on Photoshop—and with Photoshop APIs and SDKs, developers can take it even further. Build plugins and integrations that harness the power of the world’s best image editing and graphic design software to transform creative workflows for users everywhere.
 
 <TitleBlock slots="heading, text" theme="light" />
 
