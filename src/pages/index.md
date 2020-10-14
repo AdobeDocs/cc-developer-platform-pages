@@ -3,7 +3,7 @@ title: Creative Cloud Developer Platform
 description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts and Adobe Stock.
 ---
 
-<Hero slots="image, heading, icon, text" variant="halfwidth" />
+<Hero slots="image, heading, icon, text1, text2" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
@@ -11,7 +11,9 @@ description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and 
 
 ![Creative Cloud banner](images/cc-icon.png)
 
-With Adobe Creative Cloud, developers can impact creative work for millions of users worldwide. Create inspiring, productivity-driving plugins that are fast, and easy for millions of Creative Cloud users to discover, install, and apply to their creative work. Give users and teams access to their Creative Cloud content and tools right within your own apps and services. <br /><br /> Build and distribute world-class creative tools and integrations—all with Adobe Creative Cloud.
+With Adobe Creative Cloud, developers can impact creative work for millions of users worldwide. Create inspiring, productivity-driving plugins that are fast, and easy for millions of Creative Cloud users to discover, install, and apply to their creative work. Give users and teams access to their Creative Cloud content and tools right within your own apps and services. 
+
+Build and distribute world-class creative tools and integrations—all with Adobe Creative Cloud.
 
 <AnnouncementBlock slots="heading, text, button" />
 

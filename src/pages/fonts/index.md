@@ -3,13 +3,15 @@ title: Creative Cloud - Fonts APIs
 description: Adobe Fonts APIs
 ---
 
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text1, text2, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
 # Integrate Unlimited Fonts
 
-Build the Adobe Fonts Library into your application experience with our platform. <br /><br /> Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html) or [email us](mailto:fontintegrations@adobe.com) with questions.
+Build the Adobe Fonts Library into your application experience with our platform. 
+
+Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html) or [email us](mailto:fontintegrations@adobe.com) with questions.
 
 - [Read the Docs](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html)
 - [Email Us](mailto:fontintegrations@adobe.com)

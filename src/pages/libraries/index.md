@@ -3,13 +3,15 @@ title: Home - Creative Cloud Libraries
 description: Connect to the creative system with the Creative Cloud Libraries API
 ---
 
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text1, text2, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
-Creative Cloud Libraries manage, organize, and keep elements of your user’s creative system like colors, character styles, logos, and images for use in Creative Cloud apps and connected experiences. <br /> <br /> With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your user’s creative system. This helps them work more efficiently by providing access to those creative elements inside your application and connecting your application back to the Creative Cloud products.
+Creative Cloud Libraries manage, organize, and keep elements of your user’s creative system like colors, character styles, logos, and images for use in Creative Cloud apps and connected experiences. 
+
+With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your user’s creative system. This helps them work more efficiently by providing access to those creative elements inside your application and connecting your application back to the Creative Cloud products.
 
 - [Get started](https://adobe.io)
 - [Sign up for the newsletter](https://adobe.io)

@@ -3,7 +3,7 @@ title: Adobe XD APIs for developers and scripters
 description: Extend Adobe XD by creating plugins and cloud integrations
 ---
 
-<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, icon, text1, text2, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
@@ -11,7 +11,9 @@ description: Extend Adobe XD by creating plugins and cloud integrations
 
 ![XD icon](../images/icons/xd-icon.png)
 
-Adobe XD's powerful API platform lets developers and users extend XD within the app, or in the cloud. Automate complex tasks, modify and generate document contents, integrate with external services, and more. <br /><br /> Join a world-wide community of developers and power-users, and supercharge the future of design.
+Adobe XD's powerful API platform lets developers and users extend XD within the app, or in the cloud. Automate complex tasks, modify and generate document contents, integrate with external services, and more. 
+
+Join a world-wide community of developers and power-users, and supercharge the future of design.
 
 - [See what's possible](http://adobexdplatform.com)
 
