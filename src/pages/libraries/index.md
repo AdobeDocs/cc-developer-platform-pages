@@ -18,7 +18,7 @@ Creative Cloud Libraries manage, organize, and keep elements of your user’s cr
 
 ![MSFT Teams logo](images/cameraiq.png)
 
-### CC Libraries in CameraIQ
+### Libraries in CameraIQ
 
 CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences.
 
@@ -28,7 +28,7 @@ CameraIQ is using Creative Cloud Libraries to help creatives and marketers build
 
 ![JIRA Cloud logo](images/tiled.png)
 
-### CC Libraries in Tiled
+### Libraries in Tiled
 
 Tiled connected Creative Cloud Libraries to help users create on brand, interactive experiences.
 
@@ -38,7 +38,7 @@ Tiled connected Creative Cloud Libraries to help users create on brand, interact
 
 ![Slack logo](images/mural.png)
 
-### CC Libraries in Mural
+### Libraries in Mural
 
 Mural tapped into Creative Cloud Libraries to make sure their customers could easily share their most important assets for visual collaboration.
 
