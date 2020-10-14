@@ -2,6 +2,7 @@
 title: Creative Cloud Developer Platform
 description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts and Adobe Stock.
 ---
+import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cloud.md'
 
 <Hero slots="image, heading, icon, text1, text2" variant="halfwidth" />
 
@@ -101,38 +102,7 @@ Supporting, Uplifting and Empowering Innovators in the Creative Community
 
 Many creative cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### After Effects
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Animate
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Audition
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform.
-
-- [Learn more](https://adobe.io)
-- [View docs](https://adobe.io)
+<CCProductCards />
 
 <!-- Summary block -->
 
