@@ -23,7 +23,7 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 <TextBlock slots="image, heading, text1, links" />
 
-![Screenshot 1](images/cc-extend.png)
+![Screenshot 1](images/cc-extend-1.png)
 
 ## Extend Adobe Creative Cloud apps
 
