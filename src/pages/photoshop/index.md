@@ -7,11 +7,11 @@ description: Extend and integrate with Photoshop like never before
 
 ![Creative Cloud banner](../images/cc-hero.png)
 
-# Photoshop is extensibile like never before
+# Photoshop is extensible like never before
 
 ![Photoshop icon](../images/icons/ps-icon.png)
 
-The creative world runs on Photoshop. With our APIs and SDKs, developers can harness the power of the world’s best imaging and graphic design software to transform image editing workflows for yourself or creatives around the world.
+The creative world runs on Photoshop—and with Photoshop APIs and SDKs, developers can take it even further. Build plugins and integrations that harness the power of the world’s best image editing and graphic design software to transform creative workflows for users everywhere.
 
 <TitleBlock slots="heading, text" theme="dark" />
 
@@ -23,18 +23,18 @@ Whether you want to build in-app plugins or compute-intense low-level tools; or 
 
 ### UXP Plugin API
 
-Build performant plugins with modern HTML, CSS, and JavaScript with UXP. For Photoshop 22 and beyond.
+Build performant plugins with modern HTML, CSS, and JavaScript. UXP is the next generation of plugin APIs, for Photoshop 22 and beyond.
 
-- [View the docs](https://adobe.io)
+- [View the docs](photoshop/uxp/)
 
 <TextBlock slots="heading, text, buttons" width="25%" theme="dark" isCentered />
 
-### Photoshop Service API
+### Photoshop API
 
 Use Photoshop, Lightroom, and Sensei together to create web or server-based workflows to cut out images, reflow banner ads, and more.
 
-- [See a demo](https://medium.com/adobetech)
-- [Visit the repo](https://github.com/AdobeDocs/photoshop-api-docs)
+- [Learn more](https://www.adobe.io/apis/creativecloud/photo-imaging-api.html)
+
 
 <TextBlock slots="heading, text, buttons" width="25%" theme="dark" isCentered />
 
