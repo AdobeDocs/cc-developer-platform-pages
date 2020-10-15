@@ -97,7 +97,7 @@ Supporting, Uplifting and Empowering Innovators in the Creative Community
 
 # Extensible Creative Cloud products and services
 
-Many creative cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
+Many Creative Cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
 
 <CCProductCards />
 
