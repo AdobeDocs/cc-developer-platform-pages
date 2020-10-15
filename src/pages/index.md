@@ -16,10 +16,6 @@ import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cl
 Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide.
 Build and distribute inspiring, productivity-driving plugins for industry-leading apps like Photoshop and XD.
 
-Integrate with services like Libraries and Stock to expand the reach of users' creative tools and systems into your own apps.
-
-[Develop with Creative Cloud](http://adobe.ly/devnews)
-
 <AnnouncementBlock slots="heading, text, button" />
 
 ### Join the Creative Cloud Developer Newsletter
@@ -38,19 +34,16 @@ Creative Cloud desktop apps offer APIs and SDKs that let you build connected wor
 
 - ![Photoshop](images/icons/ps-icon.png) [Photoshop](../photoshop)
 - ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](../xd)
-- ![InDesign](images/icons/id-icon.png) [InDesign](../apis/creativecloud/indesign.html)
 
 <TextBlock slots="heading, text1, links, image" />
 
-## Integrate Creative Cloud services into your apps
+## Integrate Creative Cloud Libraries into your apps
 
-With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.](#api-list)
+With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your users' creative systems. This helps them work more efficiently by providing access to their creative elements inside your application and connecting your application back to Creative Cloud products.
 
-- [Creative Cloud Libraries](../creative-cloud-libraries)
-- [Adobe Stock](../apis/creativecloud/stock.html)
-- [Adobe Fonts](../fonts)
+- [Check out the Creative Cloud Libraries API](../creative-cloud-libraries)
 
-![Camera IQ integrates the CC Libraries API](images/cc-integrate.png)
+![Camera IQ integrates the Creative Cloud Libraries API](images/cc-integrate.png)
 
 <TextBlock slots="image, heading, text1, links" />
 
