@@ -9,11 +9,16 @@ import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cl
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Develop with Adobe Creative Cloud
+# Develop Creative Cloud Plugins and Integrations
 
 ![Creative Cloud banner](images/cc-icon.png)
 
-Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
+Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide.
+Build and distribute inspiring, productivity-driving plugins for industry-leading apps like Photoshop and XD.
+
+Integrate with services like Libraries and Stock to expand the reach of users' creative tools and systems into your own apps.
+
+[Develop with Creative Cloud](http://adobe.ly/devnews)
 
 <AnnouncementBlock slots="heading, text, button" />
 
