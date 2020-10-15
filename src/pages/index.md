@@ -105,7 +105,7 @@ Many creative cloud apps and services are extensible through in-app APIs and SDK
 
 <!-- Summary block -->
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![Creative Cloud banner](images/cc-banner.png)
 
