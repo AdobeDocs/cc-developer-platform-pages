@@ -31,9 +31,9 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that are easy to discover, install, and update. Give teams and individuals the power to tailor industry-leading creative apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
 
-- ![Photoshop](images/icons/ps-icon.png) [Photoshop](photoshop)
-- ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](xd)
-- ![InDesign](images/icons/id-icon.png) [InDesign](https://www.adobe.io/apis/creativecloud/indesign.html)
+- ![Photoshop](images/icons/ps-icon.png) [Photoshop](../photoshop)
+- ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](../xd)
+- ![InDesign](images/icons/id-icon.png) [InDesign](../apis/creativecloud/indesign.html)
 
 <TextBlock slots="heading, text1, links, image" />
 
@@ -41,9 +41,9 @@ Creative Cloud desktop apps offer APIs and SDKs that let you build connected wor
 
 With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.](#api-list)
 
-- [Creative Cloud Libraries](libraries)
-- [Adobe Stock](https://www.adobe.io/apis/creativecloud/stock.html)
-- [Adobe Fonts](fonts)
+- [Creative Cloud Libraries](../creative-cloud-libraries)
+- [Adobe Stock](../apis/creativecloud/stock.html)
+- [Adobe Fonts](../fonts)
 
 ![Camera IQ integrates the CC Libraries API](images/cc-integrate.png)
 
