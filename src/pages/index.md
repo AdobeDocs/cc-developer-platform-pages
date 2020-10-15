@@ -5,6 +5,7 @@ description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and 
 
 import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cloud.md'
 
+<!-- Hero -->
 <Hero slots="image, heading, icon, text" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
@@ -16,10 +17,7 @@ import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cl
 Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide.
 Build and distribute inspiring, productivity-driving plugins for industry-leading apps like Photoshop and XD.
 
-Integrate with services like Libraries and Stock to expand the reach of users' creative tools and systems into your own apps.
-
-[Develop with Creative Cloud](http://adobe.ly/devnews)
-
+<!-- Newsletter -->
 <AnnouncementBlock slots="heading, text, button" />
 
 ### Join the Creative Cloud Developer Newsletter
@@ -28,6 +26,7 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 [Sign up today](http://adobe.ly/devnews)
 
+<!-- Extend, Integrate, Distribute -->
 <TextBlock slots="image, heading, text1, links" />
 
 ![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-3.png)
@@ -38,19 +37,16 @@ Creative Cloud desktop apps offer APIs and SDKs that let you build connected wor
 
 - ![Photoshop](images/icons/ps-icon.png) [Photoshop](../photoshop)
 - ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](../xd)
-- ![InDesign](images/icons/id-icon.png) [InDesign](../apis/creativecloud/indesign.html)
 
 <TextBlock slots="heading, text1, links, image" />
 
-## Integrate Creative Cloud services into your apps
+## Integrate Creative Cloud Libraries into your apps
 
-With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.](#api-list)
+With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your users' creative systems. This helps them work more efficiently by providing access to their creative elements inside your application and connecting your application back to Creative Cloud products.
 
-- [Creative Cloud Libraries](../creative-cloud-libraries)
-- [Adobe Stock](../apis/creativecloud/stock.html)
-- [Adobe Fonts](../fonts)
+- [Check out the Creative Cloud Libraries API](../creative-cloud-libraries)
 
-![Camera IQ integrates the CC Libraries API](images/cc-integrate.png)
+![Camera IQ integrates the Creative Cloud Libraries API](images/cc-integrate.png)
 
 <TextBlock slots="image, heading, text1, links" />
 
@@ -62,6 +58,7 @@ Publish plugins and integrations for teams and individuals to discover and insta
 
 - [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
+<!-- Fund content -->
 <TitleBlock slots="heading, text" theme="light" />
 
 # The Adobe Fund for Design
@@ -74,9 +71,9 @@ Since 2018, the Adobe Fund for Design has provided equity investments and grants
 
 ![Adobe Fund for Design 1](images/adobe-fund-for-design-1.jpeg)
 
-### Adobe Fund for Design: Investing in developers with creativity in their code
+### The Adobe Fund for Design
 
-Apply for equity investments and grants from Adobe for your project.
+Investing in developers with creativity in their code.
 
 <ResourceCard slots="link, image, heading, text" width="50%" />
 
@@ -84,19 +81,19 @@ Apply for equity investments and grants from Adobe for your project.
 
 ![Adobe Fund for Design 2](images/adobe-fund-for-design-2.jpeg)
 
-### Supporting Creative Cloud Developers with the Adobe Fund for Design
+### Supporting Creative Cloud Developers
 
-Commissioned projects, and our commitment to developers from underrepresented communities.
+Commissioned projects. A commitment to developers from underrepresented communities.
 
 <ResourceCard slots="link, image, heading, text" width="50%" />
 
-[One Year of the Adobe Fund for Design: Supporting, Uplifting and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
+[One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
 
 ![Adobe Fund for Design 3](images/adobe-fund-for-design-3.jpeg)
 
 ### One Year of the Adobe Fund for Design
 
-Supporting, Uplifting and Empowering Innovators in the Creative Community
+Supporting, Uplifting, and Empowering Innovators in the Creative Community.
 
 <!-- Product cards -->
 <div id="api-list"></div>
@@ -104,12 +101,11 @@ Supporting, Uplifting and Empowering Innovators in the Creative Community
 
 # Extensible Creative Cloud products and services
 
-Many creative cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
+Many Creative Cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to get started.
 
 <CCProductCards />
 
 <!-- Summary block -->
-
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![Creative Cloud banner](images/cc-banner.png)
