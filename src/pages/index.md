@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud Developer Platform
-description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts and Adobe Stock.
+title: The Creative Cloud Developer Platform
+description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts, and Adobe Stock.
 ---
 
 import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cloud.md'
@@ -14,7 +14,7 @@ import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cl
 
 ![Creative Cloud icon](images/cc-icon.png)
 
-Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of creative teams around the world. Whether you want to automate work or integrate your software with Creative Cloud, our developer platform has the tools you need to power creative workflows.
+The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
 - [Browse our APIs](#api-list)
 - [Visit the Developer Console](https://console.adobe.io)
@@ -33,7 +33,7 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 # Extend. Integrate. Distribute.
 
-All on Creative Cloud Developer Platform.
+All on the Creative Cloud Developer Platform.
 
 <TextBlock slots="image, heading, text1, links" />
 
@@ -108,11 +108,11 @@ See how we're supporting innovators
 
 # The Creative Cloud Developer Community
 
-Multiple focuses. Many identities. A singular mission to empower creatives.
+Multiple focuses. Many identities. A singular mission to empower creativity.
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![MSFT Teams logo](images/dev-days.jpg)
+![Creative Cloud Dev Days](images/dev-days.jpg)
 
 ### Multiple focuses
 
@@ -120,7 +120,7 @@ Creative Cloud developers can build plugins and scripts for a single Creative Cl
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![MSFT Teams logo](images/workshop.jpg)
+![Creative Cloud developer workshop](images/workshop.jpg)
 
 ### Many identities
 
@@ -128,7 +128,7 @@ Creative Cloud developers may identify as _developer_, _scripter_, _entrepreneur
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![MSFT Teams logo](images/partner-day.png)
+![Creative Cloud Partner Day live stream](images/partner-day.png)
 
 ### A singular mission
 
@@ -138,7 +138,7 @@ No matter why or how they got here, Creative Cloud developers are on a mission t
 
 ## Connect with our community
 
-We're rolling out a new set of forums for developers. We have categories for a a selection of APIs to start, with support for more on the way.
+We're rolling out a new set of forums for developers. We have categories for a selection of APIs to start, with support for more on the way.
 
 [Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
 
