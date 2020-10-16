@@ -66,14 +66,55 @@ Publish your plugins and integrations directly to the Marketplace in the Creativ
 
 - [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
-<!-- Fund content -->
+<!-- Partners -->
 <TitleBlock slots="heading, text" theme="light" />
+
+# Great connections inspire great work
+
+[See the great plugins and integrations our partners build for Creative Cloud]().
+
+<!-- 1 -->
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/google.png)
+
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/pantone.jpg)
+
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/wrike.png)
+
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/asana.png)
+
+<!-- 2 -->
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/miro.png)
+
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/tiled.jpg)
+
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/zeplin.png)
+
+<TextBlock slots="image" width="25%" theme="light" isCentered />
+
+![a](images/partners/mural.png)
+
+<!-- Fund content -->
+<TitleBlock slots="heading, text" theme="lightest" />
 
 # The Adobe Fund for Design
 
 Equity investments and grants to developers who want to push boundaries and help shape the future of creativity.
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="light" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="lightest" variant="vertical" />
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
 
@@ -83,7 +124,7 @@ Equity investments and grants to developers who want to push boundaries and help
 
 Apply for a grant or investment
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="lightest" />
 
 [Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
 
