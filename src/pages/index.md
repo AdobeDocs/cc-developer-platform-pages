@@ -6,20 +6,23 @@ description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and 
 import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cloud.md'
 
 <!-- Hero -->
-<Hero slots="image, heading, icon, text" variant="halfwidth" />
+<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Develop Creative Cloud Plugins and Integrations
+# Build for Creative Cloud
 
 ![Creative Cloud icon](images/cc-icon.png)
 
-Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
+Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of creative teams around the world. Whether you want to automate work or integrate your software with Creative Cloud, our developer platform has the tools you need to power creative workflows.
+
+- [Browse our APIs](#api-list)
+- [Visit the Developer Console](https://console.adobe.io)
 
 <!-- Newsletter -->
 <AnnouncementBlock slots="heading, text, button" theme="dark" />
 
-### Join the Creative Cloud Developer Newsletter
+### Subscribe to the Creative Cloud Developer Newsletter
 
 Be the first to hear about API launches, technology updates, marketplace news, developer events, and more by joining the Creative Cloud Developer Newsletter.
 
@@ -32,18 +35,18 @@ Be the first to hear about API launches, technology updates, marketplace news, d
 
 ## Extend Adobe Creative Cloud apps
 
-Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that are easy to discover, install, and update. Give teams and individuals the power to tailor industry-leading creative apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
+Creative Cloud desktop apps offer APIs and SDKs that let you take them to new heights. Automate workflows, build new features, and connect Creative Cloud to other software and services. Write plugins or scripts, with or without UI, that tailor our industry-leading creative apps to individuals’ unique creative needs. [Browse the full list.](#api-list)
 
 - ![Photoshop](images/icons/ps-icon.png) [Photoshop](../photoshop)
 - ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](../xd)
 
 <TextBlock slots="heading, text1, links, image" />
 
-## Integrate Creative Cloud Libraries into your apps
+## Integrate Creative Cloud Libraries
 
-With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your users' creative systems. This helps them work more efficiently by providing access to their creative elements inside your application and connecting your application back to Creative Cloud products.
+Creative Cloud Libraries are the foundation of creative systems, powering asset re-use across teams and documents. With the Libraries API, you can seamlessly connect your application with Creative Cloud by giving your users and their teams direct access to all their creative elements stored in Libraries.
 
-- [Check out the Creative Cloud Libraries API](../creative-cloud-libraries)
+- ![Creative Cloud icon](images/cc-icon.png) [Creative Cloud Libraries API](../creative-cloud-libraries)
 
 ![Camera IQ integrates the Creative Cloud Libraries API](images/cc-integrate.png)
 
@@ -51,9 +54,9 @@ With the Creative Cloud Libraries API you can connect your application to Librar
 
 ![Creative Cloud Desktop Marketplace](images/cc-desktop-marketplace-1.png)
 
-## Distribute to millions of creative users worldwide
+## Distribute to millions of users worldwide
 
-Publish plugins and integrations for teams and individuals to discover and install on the Creative Cloud Plugin Marketplace and the Enterprise Admin Console. Get your work in front of creatives everywhere by distributing with Creative Cloud.
+Publish your plugins and integrations directly to the Marketplace in the Creative Cloud Desktop app for users to easily discover, install, and manage—and to the Enterprise Admin Console for admins to easily find, deploy, and give access to plugins and integrations intended for business use.
 
 - [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
@@ -62,9 +65,9 @@ Publish plugins and integrations for teams and individuals to discover and insta
 
 # The Adobe Fund for Design
 
-Since 2018, the Adobe Fund for Design has provided equity investments and grants to people and companies who want to push boundaries and help shape the future of design and creativity. Fund recipients also receive expert advice, early access to products and technology, go-to-market support, and more.
+Equity investments and grants to developers who want to push boundaries and help shape the future of creativity.
 
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" variant="vertical" />
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
 
@@ -72,19 +75,19 @@ Since 2018, the Adobe Fund for Design has provided equity investments and grants
 
 ### The Adobe Fund for Design
 
-Investing in developers with creativity in their code.
+Apply for a grant or investment
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
 [Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
 
 ![Adobe Fund for Design 2](images/adobe-fund-for-design-2.jpeg)
 
-### Supporting Creative Cloud Developers
+### Commissioned projects
 
-Commissioned projects. A commitment to developers from underrepresented communities.
+Apply to build a commissioned project
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
 [One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
 
@@ -92,7 +95,7 @@ Commissioned projects. A commitment to developers from underrepresented communit
 
 ### One Year of the Adobe Fund for Design
 
-Supporting, Uplifting, and Empowering Innovators in the Creative Community.
+See how we're supporting innovators
 
 <!-- Community -->
 <TitleBlock slots="heading, text" theme="dark" />
@@ -107,7 +110,7 @@ Multiple focuses. Many identities. A singular mission to empower creatives.
 
 ### Multiple focuses
 
-Some Creative Cloud developers focus on building plugins and scripts for a single Creative Cloud app, others build across multiple apps at once. Still others integrate services from Adobe into their own products. And there are even some who do all of these things!
+Creative Cloud developers can build plugins and scripts for a single Creative Cloud app, or multiple apps at once. Or they can integrate services from Adobe into their own products. Some developers do all of these things!
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
@@ -115,7 +118,7 @@ Some Creative Cloud developers focus on building plugins and scripts for a singl
 
 ### Many identities
 
-Creative Cloud developers may identify as _developer_, _scripter_, _entrepreneur_, _business owner_, and yes: _creative_ or _artist_. Some have been building with Adobe APIs for many years; others are getting started with their first JavaScript today. They come from all over the world.
+Creative Cloud developers may identify as _developer_, _scripter_, _entrepreneur_, _business owner_, and yes: _creative_ or _artist_. Some have worked with Adobe APIs for many years; others are learning their first JavaScript today.
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
@@ -123,23 +126,23 @@ Creative Cloud developers may identify as _developer_, _scripter_, _entrepreneur
 
 ### A singular mission
 
-No matter their goals or the specifics of the journey that brought them here, Creative Cloud developers are all on a mission to inspire and empower creatives and their teams to get more done in less time, work together in new ways, and push the boundaries of creativity.
+No matter why or how they got here, Creative Cloud developers are on a mission to inspire and empower creatives to get more done in less time, collaborate in new ways, and push the boundaries of creativity.
 
 <AnnouncementBlock slots="heading, text, button" theme="dark" />
 
-### Join the Creative Cloud Developer community
+## Connect with our community
 
-Starting at Adobe MAX 2020, we're rolling out a new set of forums for Creative Cloud developers. We'll have categories for a handful of specific APIs to start, adding support for more over time.
+We're rolling out a new set of forums for developers. We have categories for a a selection of APIs to start, with support for more on the way.
 
-[Say "Hi" on the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
+[Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
 
 <!-- Product cards -->
 <div id="api-list"></div>
-<TitleBlock slots="heading, text" theme="light" />
+<TitleBlock slots="heading, text" theme="lightest" />
 
 # Extensible Creative Cloud products and services
 
-Many Creative Cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to get started.
+Many Creative Cloud apps and services are extensible through APIs, SDKs, and Events. Choose your favorite to get started.
 
 <CCProductCards />
 
