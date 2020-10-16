@@ -94,6 +94,50 @@ Commissioned projects. A commitment to developers from underrepresented communit
 
 Supporting, Uplifting, and Empowering Innovators in the Creative Community.
 
+<!-- Community -->
+<TitleBlock slots="heading, text" theme="dark" />
+
+# The Creative Cloud Developer Community
+
+Multiple focuses. Many identities. A singular mission: empower creatives.
+
+<TextBlock slots="heading, text1, image" theme="dark"/>
+
+## Multiple focuses
+
+Some Creative Cloud developers focus on building plugins and scripts for a single app, like Photoshop, InDesign, or After Effects. Others build across multiple apps at once. Still other Creative Cloud developers integrate services from Adobe into their own products. And there even some who do all of these things!
+
+![Camera IQ integrates the Creative Cloud Libraries API](images/dev-days.jpg)
+
+<TextBlock slots="image, heading, text1" theme="dark"/>
+
+![Camera IQ integrates the Creative Cloud Libraries API](images/workshop.jpg)
+
+## Many identities
+
+Creative Cloud developers may identify as _developer_ or _scripter_; or maybe _entrepreneur_ or _business owner_. Many times they are creative users of Adobe products, learning a little JavaScript to automate work for themselves or their teams. Some have been building with Adobe APIs for many years; others are getting started today. They come from all over the world.
+
+<TextBlock slots="heading, text1, text2, links, image" theme="dark"/>
+
+## A singular mission
+
+No matter their individual goals or the specifics of the journey that brought them here, Creative Cloud developers are all on a mission to inspire and empower creatives and their teams to get more done in less time, work together in new ways, and push the boundaries of creativity.
+
+And we're better together. Join the community on the forums to ask questions, offer help, and inspire each other with what you create using Creative Cloud APIs and SDKs.
+
+- [Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
+- [Adobe Community Forums](https://community.adobe.com)
+
+![Camera IQ integrates the Creative Cloud Libraries API](images/partner-day.png)
+
+<AnnouncementBlock slots="heading, text, button" theme="dark" />
+
+### Join the Creative Cloud Developer community
+
+Starting at Adobe MAX 2020, we're rolling out a new set of forums for Creative Cloud developers. We'll have categories for a handful of specific APIs to start, adding support for more over time.
+
+[Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
+
 <!-- Product cards -->
 <div id="api-list"></div>
 <TitleBlock slots="heading, text" theme="light" />
