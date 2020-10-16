@@ -17,7 +17,7 @@ import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cl
 Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
 
 <!-- Newsletter -->
-<AnnouncementBlock slots="heading, text, button" />
+<AnnouncementBlock slots="heading, text, button" theme="dark" />
 
 ### Join the Creative Cloud Developer Newsletter
 
@@ -99,36 +99,31 @@ Supporting, Uplifting, and Empowering Innovators in the Creative Community.
 
 # The Creative Cloud Developer Community
 
-Multiple focuses. Many identities. A singular mission: empower creatives.
+Multiple focuses. Many identities. A singular mission to empower creatives.
 
-<TextBlock slots="heading, text1, image" theme="dark"/>
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-## Multiple focuses
+![MSFT Teams logo](images/dev-days.jpg)
 
-Some Creative Cloud developers focus on building plugins and scripts for a single app, like Photoshop, InDesign, or After Effects. Others build across multiple apps at once. Still other Creative Cloud developers integrate services from Adobe into their own products. And there even some who do all of these things!
+### Multiple focuses
 
-![Camera IQ integrates the Creative Cloud Libraries API](images/dev-days.jpg)
+Some Creative Cloud developers focus on building plugins and scripts for a single Creative Cloud app, others build across multiple apps at once. Still others integrate services from Adobe into their own products. And there are even some who do all of these things!
 
-<TextBlock slots="image, heading, text1" theme="dark"/>
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![Camera IQ integrates the Creative Cloud Libraries API](images/workshop.jpg)
+![MSFT Teams logo](images/workshop.jpg)
 
-## Many identities
+### Many identities
 
-Creative Cloud developers may identify as _developer_ or _scripter_; or maybe _entrepreneur_ or _business owner_. Many times they are creative users of Adobe products, learning a little JavaScript to automate work for themselves or their teams. Some have been building with Adobe APIs for many years; others are getting started today. They come from all over the world.
+Creative Cloud developers may identify as _developer_, _scripter_, _entrepreneur_, _business owner_, and yes: _creative_ or _artist_. Some have been building with Adobe APIs for many years; others are getting started with their first JavaScript today. They come from all over the world.
 
-<TextBlock slots="heading, text1, text2, links, image" theme="dark"/>
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-## A singular mission
+![MSFT Teams logo](images/partner-day.png)
 
-No matter their individual goals or the specifics of the journey that brought them here, Creative Cloud developers are all on a mission to inspire and empower creatives and their teams to get more done in less time, work together in new ways, and push the boundaries of creativity.
+### A singular mission
 
-And we're better together. Join the community on the forums to ask questions, offer help, and inspire each other with what you create using Creative Cloud APIs and SDKs.
-
-- [Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
-- [Adobe Community Forums](https://community.adobe.com)
-
-![Camera IQ integrates the Creative Cloud Libraries API](images/partner-day.png)
+No matter their goals or the specifics of the journey that brought them here, Creative Cloud developers are all on a mission to inspire and empower creatives and their teams to get more done in less time, work together in new ways, and push the boundaries of creativity.
 
 <AnnouncementBlock slots="heading, text, button" theme="dark" />
 
@@ -136,7 +131,7 @@ And we're better together. Join the community on the forums to ask questions, of
 
 Starting at Adobe MAX 2020, we're rolling out a new set of forums for Creative Cloud developers. We'll have categories for a handful of specific APIs to start, adding support for more over time.
 
-[Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
+[Say "Hi" on the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
 
 <!-- Product cards -->
 <div id="api-list"></div>
