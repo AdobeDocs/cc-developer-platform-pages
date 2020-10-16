@@ -24,11 +24,17 @@ Creative Cloud Developer Platform is a collection of APIs and SDKs that let you 
 
 ### Subscribe to the Creative Cloud Developer Newsletter
 
-Be the first to hear about API launches, technology updates, marketplace news, developer events, and more by joining the Creative Cloud Developer Newsletter.
+Be the first to hear about API launches, technology updates, marketplace news, developer events, and more by joining our newsletter.
 
 [Sign up today](http://adobe.ly/devnews)
 
 <!-- Extend, Integrate, Distribute -->
+<TitleBlock slots="heading, text" theme="lightest" />
+
+# Extend. Integrate. Distribute.
+
+All on Creative Cloud Developer Platform.
+
 <TextBlock slots="image, heading, text1, links" />
 
 ![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-3.png)
