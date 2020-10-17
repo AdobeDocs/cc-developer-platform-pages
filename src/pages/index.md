@@ -143,11 +143,12 @@ We're rolling out a new set of forums for developers. We have categories for a s
 [Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
 
 <!-- Partners -->
+
 <TitleBlock slots="heading, text" theme="lightest" />
 
 # Be in great company
 
-[Explore the thousands of plugins and integrations designed for Creative Cloud.]()
+[Explore the thousands of plugins and integrations designed for Creative Cloud.](https://www.adobe.com/creativecloud/extensibility.html)
 
 ![a](images/designed-for-cc-sm.png)
 
@@ -158,7 +159,7 @@ We're rolling out a new set of forums for developers. We have categories for a s
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/msft-office.png)
+![a](images/partners/msft-teams.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
