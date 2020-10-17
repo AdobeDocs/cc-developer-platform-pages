@@ -66,55 +66,14 @@ Publish your plugins and integrations directly to the Marketplace in the Creativ
 
 - [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
-<!-- Partners -->
-<TitleBlock slots="heading, text" theme="light" />
-
-# Great connections inspire great work
-
-[See the great plugins and integrations our partners build for Creative Cloud]().
-
-<!-- 1 -->
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/google.png)
-
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/pantone.jpg)
-
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/wrike.png)
-
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/asana.png)
-
-<!-- 2 -->
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/miro.png)
-
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/tiled.jpg)
-
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/zeplin.png)
-
-<TextBlock slots="image" width="25%" theme="light" isCentered />
-
-![a](images/partners/mural.png)
-
 <!-- Fund content -->
-<TitleBlock slots="heading, text" theme="lightest" />
+<TitleBlock slots="heading, text" theme="light" />
 
 # The Adobe Fund for Design
 
 Equity investments and grants to developers who want to push boundaries and help shape the future of creativity.
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="lightest" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" variant="vertical" />
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
 
@@ -124,7 +83,7 @@ Equity investments and grants to developers who want to push boundaries and help
 
 Apply for a grant or investment
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="lightest" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
 [Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
 
@@ -182,6 +141,59 @@ No matter why or how they got here, Creative Cloud developers are on a mission t
 We're rolling out a new set of forums for developers. We have categories for a selection of APIs to start, with support for more on the way.
 
 [Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
+
+<!-- Partners -->
+<TitleBlock slots="heading, text" theme="lightest" />
+
+# Be in great company
+
+[Explore the thousands of plugins and integrations designed for Creative Cloud.]()
+
+![a](images/designed-for-cc-sm.png)
+
+<!-- 1 -->
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/google.png)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/msft-office.png)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/slack.png)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/pantone.jpg)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/wrike.png)
+
+<br style="background: rgb(245, 245, 245)" />
+
+<!-- 2 -->
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/asana.png)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/miro.png)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/tiled.jpg)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/zeplin.png)
+
+<TextBlock slots="image" width="20%" theme="lightest" isCentered />
+
+![a](images/partners/mural.png)
 
 <!-- Product cards -->
 <div id="api-list"></div>
