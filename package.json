@@ -15,7 +15,7 @@
     "@adobe/gatsby-theme-parliament": "^2.11.0",
     "dev-site-product-index": "github:adobedocs/dev-site-product-index",
     "gatsby": "^2.24.74",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1"
   },
   "scripts": {
