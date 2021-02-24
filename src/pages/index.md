@@ -3,7 +3,7 @@ title: The Creative Cloud Developer Platform
 description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts, and Adobe Stock.
 ---
 
-import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cloud.md'
+import CCProductCards from 'dev-site/src/transclusions/creative-cloud.md'
 
 <!-- Hero -->
 <Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
