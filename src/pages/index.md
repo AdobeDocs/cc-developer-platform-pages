@@ -12,7 +12,7 @@ import CCProductCards from 'dev-site/src/transclusions/creative-cloud.md'
 
 # Build for Creative Cloud
 
-![Creative Cloud icon](images/cc-icon.png)
+![Creative Cloud icon](https://adobe.io/shared/icons/cc_appicon_64.svg)
 
 The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
@@ -43,8 +43,8 @@ All on the Creative Cloud Developer Platform.
 
 Creative Cloud desktop apps offer APIs and SDKs that let you take them to new heights. Automate workflows, build new features, and connect Creative Cloud to other software and services. Write plugins or scripts, with or without UI, that tailor our industry-leading creative apps to individuals’ unique creative needs. [Browse the full list.](#api-list)
 
-- ![Photoshop](images/icons/ps-icon.png) [Photoshop](../photoshop)
-- ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](../xd)
+- ![Photoshop](https://adobe.io/shared/icons/ps_appicon_64.svg) [Photoshop](../photoshop)
+- ![Adobe XD](https://adobe.io/shared/icons/xd_appicon_64.svg) [Adobe XD](../xd)
 
 <TextBlock slots="heading, text1, links, image" />
 
@@ -52,7 +52,7 @@ Creative Cloud desktop apps offer APIs and SDKs that let you take them to new he
 
 Creative Cloud Libraries are the foundation of creative systems, powering asset re-use across teams and documents. With the Libraries API, you can seamlessly connect your application with Creative Cloud by giving your users and their teams direct access to all their creative elements stored in Libraries.
 
-- ![Creative Cloud icon](images/cc-icon.png) [Creative Cloud Libraries API](../creative-cloud-libraries)
+- ![Creative Cloud icon](https://adobe.io/shared/icons/cc_appicon_64.svg) [Creative Cloud Libraries API](../creative-cloud-libraries)
 
 ![Camera IQ integrates the Creative Cloud Libraries API](images/cc-integrate.png)
 

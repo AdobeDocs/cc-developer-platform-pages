@@ -8,9 +8,9 @@
     "url": "https://github.com/AdobeDocs/cc-developer-platform-pages"
   },
   "dependencies": {
-    "@adobe/gatsby-theme-aio": "^3.1.8",
+    "@adobe/gatsby-theme-aio": "^3.10.0",
     "dev-site": "github:adobedocs/dev-site",
-    "gatsby": "^3.0.0",
+    "gatsby": "^3.6.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
