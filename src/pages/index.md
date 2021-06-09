@@ -8,7 +8,7 @@ import CCProductCards from 'dev-site/src/transclusions/creative-cloud.md'
 <!-- Hero -->
 <Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
 # Build for Creative Cloud
 
@@ -209,7 +209,7 @@ Many Creative Cloud apps and services are extensible through APIs, SDKs, and Eve
 <!-- Summary block -->
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![Creative Cloud banner](images/cc-banner.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
