@@ -73,7 +73,7 @@ Publish your plugins and integrations directly to the Marketplace in the Creativ
 
 Equity investments and grants to developers who want to push boundaries and help shape the future of creativity.
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="light" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
 
@@ -83,7 +83,7 @@ Equity investments and grants to developers who want to push boundaries and help
 
 Apply for a grant or investment
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
+<ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
 
 [Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
 
@@ -93,7 +93,7 @@ Apply for a grant or investment
 
 Apply to build a commissioned project
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
+<ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
 
 [One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
 
