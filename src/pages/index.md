@@ -14,11 +14,11 @@ import CCProductCards from 'dev-site/src/transclusions/creative-cloud.md'
 <!-- Hero -->
 <Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
+![](https://adobe.io/shared/images/cc-hero.png)
 
 # Build for Creative Cloud
 
-![Creative Cloud icon](https://adobe.io/shared/icons/cc_appicon_64.svg)
+![Creative Cloud](https://adobe.io/shared/icons/cc_appicon_64.svg)
 
 The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
@@ -43,7 +43,7 @@ All on the Creative Cloud Developer Platform.
 
 <TextBlock slots="image, heading, text1, links" />
 
-![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-3.png)
+![](images/cc-extend-3.png)
 
 ## Extend Adobe Creative Cloud apps
 
@@ -58,9 +58,9 @@ Creative Cloud desktop apps offer APIs and SDKs that let you take them to new he
 
 Creative Cloud Libraries are the foundation of creative systems, powering asset re-use across teams and documents. With the Libraries API, you can seamlessly connect your application with Creative Cloud by giving your users and their teams direct access to all their creative elements stored in Libraries.
 
-- ![Creative Cloud icon](https://adobe.io/shared/icons/cc_appicon_64.svg) [Creative Cloud Libraries API](../creative-cloud-libraries)
+- ![Creative Cloud](https://adobe.io/shared/icons/cc_appicon_64.svg) [Creative Cloud Libraries API](../creative-cloud-libraries)
 
-![Camera IQ integrates the Creative Cloud Libraries API](images/cc-integrate.png)
+![](images/cc-integrate.png)
 
 <TextBlock slots="image, heading, text1, links" />
 
@@ -83,7 +83,7 @@ Equity investments and grants to developers who want to push boundaries and help
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
 
-![Adobe Fund for Design 1](images/adobe-fund-for-design-1.jpeg)
+![](images/adobe-fund-for-design-1.jpeg)
 
 ### The Adobe Fund for Design
 
@@ -93,7 +93,7 @@ Apply for a grant or investment
 
 [Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
 
-![Adobe Fund for Design 2](images/adobe-fund-for-design-2.jpeg)
+![](images/adobe-fund-for-design-2.jpeg)
 
 ### Commissioned projects
 
@@ -103,7 +103,7 @@ Apply to build a commissioned project
 
 [One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
 
-![Adobe Fund for Design 3](images/adobe-fund-for-design-3.jpeg)
+![](images/adobe-fund-for-design-3.jpeg)
 
 ### One Year of the Adobe Fund for Design
 
@@ -118,7 +118,7 @@ Multiple focuses. Many identities. A singular mission to empower creativity.
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![Creative Cloud Dev Days](images/dev-days.jpg)
+![](images/dev-days.jpg)
 
 ### Multiple focuses
 
@@ -126,7 +126,7 @@ Creative Cloud developers can build plugins and scripts for a single Creative Cl
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![Creative Cloud developer workshop](images/workshop.jpg)
+![](images/workshop.jpg)
 
 ### Many identities
 
@@ -134,7 +134,7 @@ Creative Cloud developers may identify as _developer_, _scripter_, _entrepreneur
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![Creative Cloud Partner Day live stream](images/partner-day.png)
+![](images/partner-day.png)
 
 ### A singular mission
 
@@ -156,51 +156,51 @@ We're rolling out a new set of forums for developers. We have categories for a s
 
 [Explore the thousands of plugins and integrations designed for Creative Cloud.](https://www.adobe.com/creativecloud/extensibility.html)
 
-![a](images/designed-for-cc-sm.png)
+![Creative Cloud](images/designed-for-cc-sm.png)
 
 <!-- 1 -->
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/google.png)
+![Google](images/partners/google.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/msft-teams.png)
+![Microsoft Teams](images/partners/msft-teams.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/slack.png)
+![Slack](images/partners/slack.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/pantone.jpg)
+![Pantone](images/partners/pantone.jpg)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/wrike.png)
+![Wrike](images/partners/wrike.png)
 
 <br style="background: rgb(245, 245, 245)" />
 
 <!-- 2 -->
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/asana.png)
+![Asana](images/partners/asana.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/miro.png)
+![Miro](images/partners/miro.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/tiled.jpg)
+![Tiled](images/partners/tiled.jpg)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/zeplin.png)
+![Zeplin](images/partners/zeplin.png)
 
 <TextBlock slots="image" width="20%" theme="lightest" isCentered />
 
-![a](images/partners/mural.png)
+![Mural](images/partners/mural.png)
 
 <!-- Product cards -->
 <div id="api-list"></div>
@@ -215,7 +215,7 @@ Many Creative Cloud apps and services are extensible through APIs, SDKs, and Eve
 <!-- Summary block -->
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![Creative Cloud banner](https://adobe.io/shared/images/cc-banner.png)
+![](https://adobe.io/shared/images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
