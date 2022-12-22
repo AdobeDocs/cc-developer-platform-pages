@@ -9,7 +9,7 @@ title: The Creative Cloud Developer Platform
 description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts, and Adobe Stock.
 ---
 
-import CCProductCards from 'dev-site/src/transclusions/creative-cloud.md'
+import {clouds, products} from '../products'
 
 <!-- Hero -->
 <Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
@@ -210,7 +210,7 @@ We're rolling out a new set of forums for developers. We have categories for a s
 
 Many Creative Cloud apps and services are extensible through APIs, SDKs, and Events. Choose your favorite to get started.
 
-<CCProductCards />
+<OldProductCardGrid clouds={clouds} products={products} filterByIds={[1, 2, 3, 4, 5, 42, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]} />
 
 <!-- Summary block -->
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
