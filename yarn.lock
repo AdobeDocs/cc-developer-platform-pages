@@ -33,7 +33,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adobe/gatsby-theme-aio@npm:4.7.9, @adobe/gatsby-theme-aio@npm:^4.7.5":
+"@adobe/gatsby-theme-aio@npm:4.7.9":
   version: 4.7.9
   resolution: "@adobe/gatsby-theme-aio@npm:4.7.9"
   dependencies:
@@ -6122,7 +6122,6 @@ __metadata:
   resolution: "cc-developer-platform-pages@workspace:."
   dependencies:
     "@adobe/gatsby-theme-aio": 4.7.9
-    dev-site: "github:adobedocs/dev-site"
     gatsby: 4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -7591,18 +7590,6 @@ __metadata:
     detect: bin/detect-port.js
     detect-port: bin/detect-port.js
   checksum: b48da9340481742547263d5d985e65d078592557863402ecf538511735e83575867e94f91fe74405ea19b61351feb99efccae7e55de9a151d5654e3417cea05b
-  languageName: node
-  linkType: hard
-
-"dev-site@github:adobedocs/dev-site":
-  version: 1.0.0
-  resolution: "dev-site@https://github.com/adobedocs/dev-site.git#commit=5ce8574677ea8363479c2311655fc2d2997d44b6"
-  dependencies:
-    "@adobe/gatsby-theme-aio": ^4.7.5
-    gatsby: 4.22.0
-    react: ^17.0.2
-    react-dom: ^17.0.2
-  checksum: fbed593f30a3e17b5ae30ac46013e45dea0515bd32c8dd1f5f249251522150590d701518f58ba24d53123490ff5e94f6d4c7c2cd09f739d8131ff7219f2af533
   languageName: node
   linkType: hard
 
@@ -12169,13 +12156,13 @@ __metadata:
   linkType: hard
 
 "json5@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "json5@npm:1.0.1"
+  version: 1.0.2
+  resolution: "json5@npm:1.0.2"
   dependencies:
     minimist: ^1.2.0
   bin:
     json5: lib/cli.js
-  checksum: e76ea23dbb8fc1348c143da628134a98adf4c5a4e8ea2adaa74a80c455fc2cdf0e2e13e6398ef819bfe92306b610ebb2002668ed9fc1af386d593691ef346fc3
+  checksum: 866458a8c58a95a49bef3adba929c625e82532bcff1fe93f01d29cb02cac7c3fe1f4b79951b7792c2da9de0b32871a8401a6e3c5b36778ad852bf5b8a61165d7
   languageName: node
   linkType: hard
 
