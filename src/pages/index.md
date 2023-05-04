@@ -50,7 +50,7 @@ All on the Creative Cloud Developer Platform.
 Creative Cloud desktop apps offer APIs and SDKs that let you take them to new heights. Automate workflows, build new features, and connect Creative Cloud to other software and services. Write plugins or scripts, with or without UI, that tailor our industry-leading creative apps to individuals’ unique creative needs. [Browse the full list.](#api-list)
 
 ![Photoshop](https://developer.adobe.com/shared/icons/ps_appicon_64.svg)[Photoshop](../photoshop) &nbsp; &nbsp;
-![InDesign](https://developer.adobe.com/shared/icons/id_appicon_64.svg)[InDesign](../indesign)  &nbsp;
+![InDesign](https://developer.adobe.com/shared/icons/id_appicon_64.svg)[InDesign](../indesign/uxp)  &nbsp;
 
 <!-- <TextBlock slots="heading, text1, links, image" />
 
