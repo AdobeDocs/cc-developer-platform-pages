@@ -49,18 +49,18 @@ All on the Creative Cloud Developer Platform.
 
 Creative Cloud desktop apps offer APIs and SDKs that let you take them to new heights. Automate workflows, build new features, and connect Creative Cloud to other software and services. Write plugins or scripts, with or without UI, that tailor our industry-leading creative apps to individuals’ unique creative needs. [Browse the full list.](#api-list)
 
-- ![Photoshop](https://adobe.io/shared/icons/ps_appicon_64.svg) [Photoshop](../photoshop)
-- ![Adobe XD](https://adobe.io/shared/icons/xd_appicon_64.svg) [Adobe XD](../xd)
+![Photoshop](https://developer.adobe.com/shared/icons/ps_appicon_64.svg)[Photoshop](../photoshop) &nbsp; &nbsp;
+![InDesign](https://developer.adobe.com/shared/icons/id_appicon_64.svg)[InDesign](../indesign)  &nbsp;
 
-<TextBlock slots="heading, text1, links, image" />
+<!-- <TextBlock slots="heading, text1, links, image" />
 
 ## Integrate Creative Cloud Libraries
 
 Creative Cloud Libraries are the foundation of creative systems, powering asset re-use across teams and documents. With the Libraries API, you can seamlessly connect your application with Creative Cloud by giving your users and their teams direct access to all their creative elements stored in Libraries.
 
-- ![Creative Cloud](https://adobe.io/shared/icons/cc_appicon_64.svg) [Creative Cloud Libraries API](../creative-cloud-libraries)
+![Creative Cloud](https://adobe.io/shared/icons/cc_appicon_64.svg) [Creative Cloud Libraries API](../creative-cloud-libraries)
 
-![](images/cc-integrate.png)
+![](images/cc-integrate.png) -->
 
 <TextBlock slots="image, heading, text1, links" />
 
@@ -79,7 +79,7 @@ Publish your plugins and integrations directly to the Marketplace in the Creativ
 
 Equity investments and grants to developers who want to push boundaries and help shape the future of creativity.
 
-<ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
 [Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
 
@@ -89,7 +89,7 @@ Equity investments and grants to developers who want to push boundaries and help
 
 Apply for a grant or investment
 
-<ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
+<!-- <ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
 
 [Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
 
@@ -97,9 +97,9 @@ Apply for a grant or investment
 
 ### Commissioned projects
 
-Apply to build a commissioned project
+Apply to build a commissioned project -->
 
-<ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
 [One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
 
@@ -210,7 +210,7 @@ We're rolling out a new set of forums for developers. We have categories for a s
 
 Many Creative Cloud apps and services are extensible through APIs, SDKs, and Events. Choose your favorite to get started.
 
-<OldProductCardGrid clouds={clouds} products={products} filterByIds={[1, 2, 3, 4, 5, 42, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]} />
+<OldProductCardGrid clouds={clouds} products={products} filterByIds={[4, 6, 8, 5, 42, 3, 9, 7, 10, 11, 12, 13, 14, 15, 44]} />
 
 <!-- Summary block -->
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
