@@ -30,24 +30,24 @@ const products = [
     cloud: clouds[0]
   },
   {
-    id: 1,
+    id: 43,
     name: 'Creative Cloud Libraries',
     description: 'The Libraries API lets you connect your app to Creative Cloud and expand the reach of your users\' creative systems. Enable more efficient workflows by providing users with access to their creative elements, right inside your app.',
     icon: 'https://adobe.io/shared/icons/cc_appicon_64.svg',
     discover: '/creative-cloud-libraries',
     docs: false,
-    lastUpdated: '2019',
+    lastUpdated: '1980',
     cloud: clouds[0]
   },
   {
-    id: 2,
+    id: 44,
     name: 'XD',
     description:
       "Adobe XD’s powerful API platform lets developers and users extend XD within the app, or in the cloud. Automate complex tasks, modify and generate document contents, integrate with external services, and more.",
     icon: 'https://adobe.io/shared/icons/xd_appicon_64.svg',
     discover: '/xd',
     docs: false,
-    lastUpdated: '2017',
+    lastUpdated: '1979',
     cloud: clouds[0]
   },
   {
@@ -88,7 +88,7 @@ const products = [
     icon: 'https://adobe.io/shared/icons/id_appicon_64.svg',
     discover: '/indesign',
     docs: false,
-    lastUpdated: '1997',
+    lastUpdated: '2017',
     cloud: clouds[0]
   },
   {
