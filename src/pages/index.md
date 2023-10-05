@@ -72,7 +72,7 @@ Publish your plugins and integrations directly to the Marketplace in the Creativ
 
 - [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
-<!-- Fund content -->
+<!-- Fund content
 <TitleBlock slots="heading, text" theme="light" />
 
 # The Adobe Fund for Design
@@ -87,7 +87,7 @@ Equity investments and grants to developers who want to push boundaries and help
 
 ### The Adobe Fund for Design
 
-Apply for a grant or investment
+Apply for a grant or investment -->
 
 <!-- <ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
 
@@ -99,7 +99,7 @@ Apply for a grant or investment
 
 Apply to build a commissioned project -->
 
-<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
+<!-- <ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
 [One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
 
@@ -107,7 +107,7 @@ Apply to build a commissioned project -->
 
 ### One Year of the Adobe Fund for Design
 
-See how we're supporting innovators
+See how we're supporting innovators -->
 
 <!-- Community -->
 <TitleBlock slots="heading, text" theme="dark" />
