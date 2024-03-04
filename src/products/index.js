@@ -164,17 +164,17 @@ const products = [
     lastUpdated: '1984',
     cloud: clouds[0]
   },
-  {
-    id: 14,
-    name: 'Adobe Fonts',
-    description:
-      'The Adobe Fonts API gives you programmatic access to the Adobe Fonts service over a RESTful HTTP API.',
-    icon: 'https://adobe.io/shared/icons/adobe_fonts_appicon_darktile_32.svg',
-    discover: '/fonts',
-    docs: false,
-    lastUpdated: '1983',
-    cloud: clouds[0]
-  },
+  // {
+  //   id: 14,
+  //   name: 'Adobe Fonts',
+  //   description:
+  //     'The Adobe Fonts API gives you programmatic access to the Adobe Fonts service over a RESTful HTTP API.',
+  //   icon: 'https://adobe.io/shared/icons/adobe_fonts_appicon_darktile_32.svg',
+  //   discover: '/fonts',
+  //   docs: false,
+  //   lastUpdated: '1983',
+  //   cloud: clouds[0]
+  // },
   {
     id: 15,
     name: 'Camera Raw',
