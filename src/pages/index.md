@@ -23,7 +23,7 @@ import {clouds, products} from '../products'
 The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
 - [Browse our APIs](#api-list)
-- [Visit the Developer Console](https://console.adobe.io)
+- [Visit the Developer Console](https://developer.adobe.com/console)
 
 <!-- Newsletter -->
 <AnnouncementBlock slots="heading, text, button" theme="dark" />
@@ -49,19 +49,9 @@ All on the Creative Cloud Developer Platform.
 
 Creative Cloud desktop apps offer APIs and SDKs that let you take them to new heights. Automate workflows, build new features, and connect Creative Cloud to other software and services. Write plugins or scripts, with or without UI, that tailor our industry-leading creative apps to individuals’ unique creative needs. [Browse the full list.](#api-list)
 
-![Express](https://developer.adobe.com/images/express.png)[Express](../express) &nbsp; &nbsp;
+![Express](https://developer.adobe.com/shared/icons/adobe_express_appicon_64px.svg)[Express](../express) &nbsp; &nbsp;
 ![Photoshop](https://developer.adobe.com/shared/icons/ps_appicon_64.svg)[Photoshop](../photoshop) &nbsp; &nbsp;
 ![InDesign](https://developer.adobe.com/shared/icons/id_appicon_64.svg)[InDesign](../indesign/uxp)  &nbsp;
-
-<!-- <TextBlock slots="heading, text1, links, image" />
-
-## Integrate Creative Cloud Libraries
-
-Creative Cloud Libraries are the foundation of creative systems, powering asset re-use across teams and documents. With the Libraries API, you can seamlessly connect your application with Creative Cloud by giving your users and their teams direct access to all their creative elements stored in Libraries.
-
-![Creative Cloud](https://adobe.io/shared/icons/cc_appicon_64.svg) [Creative Cloud Libraries API](../creative-cloud-libraries)
-
-![](images/cc-integrate.png) -->
 
 <TextBlock slots="image, heading, text1, links" />
 
@@ -73,44 +63,33 @@ Publish your plugins and integrations directly to the Marketplace in the Creativ
 
 - [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
 
-<!-- Fund content
+<!-- Fund content -->
 <TitleBlock slots="heading, text" theme="light" />
 
 # The Adobe Fund for Design
 
-Equity investments and grants to developers who want to push boundaries and help shape the future of creativity.
+Get funding to build Adobe Express add-ons — plugins and integrations that unleash the creativity of millions of users.
 
 <ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
-[Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
+[Adobe Fund for Design](https://developer.adobe.com/fund-for-design)
 
 ![](images/adobe-fund-for-design-1.jpeg)
 
 ### The Adobe Fund for Design
 
-Apply for a grant or investment -->
+Apply for a grant or investment.
 
-<!-- <ResourceCard slots="link, image, heading, text" width="33%" theme="light" />
+<ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
 
-[Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
-
-![](images/adobe-fund-for-design-2.jpeg)
-
-### Commissioned projects
-
-Apply to build a commissioned project -->
-
-<!-- <ResourceCard slots="link, image, heading, text" width="50%" theme="light" />
-
-[One Year of the Adobe Fund for Design: Supporting, Uplifting, and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
+[Adobe Tech Blog | Get Funding to Build Adobe Express Add-Ons](https://blog.developer.adobe.com/get-funding-to-build-adobe-express-add-ons-093ddf8336be?source=friends_link&sk=f04b558801adc66ec89f25d8589e400b)
 
 ![](images/adobe-fund-for-design-3.jpeg)
 
-### One Year of the Adobe Fund for Design
+### Adobe Tech Blog
 
-See how we're supporting innovators -->
+Get Funding to Build Adobe Express Add-Ons
 
-<!-- Community -->
 <TitleBlock slots="heading, text" theme="dark" />
 
 # The Creative Cloud Developer Community
