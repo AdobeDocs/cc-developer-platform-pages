@@ -17,6 +17,26 @@ module.exports = {
         title: "Adobe Creative Cloud",
         path: "/",
       },
+      {
+        title: "Adobe Express",
+        path: "https://developer.adobe.com/express/",
+      },
+      {
+        title: "Developer Events",
+        path: "https://developer.adobe.com/developers-live",
+      },
+      {
+        title: "Developer Forums",
+        path: "https://developer.adobe.com/developer-champion/forums",
+      },
+      {
+        title: "Developer Champions",
+        path: "https://developer.adobe.com/developer-champion/",
+      },
+      {
+        title: "Fund for Design",
+        path: "https://developer.adobe.com/fund-for-design/",
+      },
     ],
   },
   plugins: [`@adobe/gatsby-theme-aio`],

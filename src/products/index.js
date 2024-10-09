@@ -155,38 +155,6 @@ const products = [
     cloud: clouds[0]
   },
   {
-    id: 13,
-    name: 'Dreamweaver',
-    description: 'Add powerful features for building web apps. Automate your cross-application workflows.',
-    icon: 'https://adobe.io/shared/icons/dw_appicon_64.svg',
-    discover: '/dreamweaver',
-    docs: false,
-    lastUpdated: '1984',
-    cloud: clouds[0]
-  },
-  {
-    id: 14,
-    name: 'Adobe Fonts',
-    description:
-      'The Adobe Fonts API gives you programmatic access to the Adobe Fonts service over a RESTful HTTP API.',
-    icon: 'https://adobe.io/shared/icons/adobe_fonts_appicon_darktile_32.svg',
-    discover: '/fonts',
-    docs: false,
-    lastUpdated: '1983',
-    cloud: clouds[0]
-  },
-  {
-    id: 15,
-    name: 'Camera Raw',
-    description:
-      'Adobe Camera Raw SDKs allows you to create DNG images, and distribute Presets and Profiles for use inside of ACR, Lightroom Classic, and Lightroom CC.',
-    icon: 'https://adobe.io/shared/icons/camraw_SVG_256.svg',
-    discover: '/camera-raw',
-    docs: false,
-    lastUpdated: '1982',
-    cloud: clouds[0]
-  },
-  {
     id: 16,
     name: 'Adobe PDF Embed API',
     description:
