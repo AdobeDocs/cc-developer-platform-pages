@@ -11,25 +11,15 @@
  */
 
 module.exports = {
-    siteMetadata: {
-      versions: [
-        {
-          title: 'v2.0',
-          selected: true
-        },
-        {
-          title: 'v1.4',
-          path: 'https://github.com/AdobeDocs/dev-site'
-        }
-      ],
-    pages: [
+  siteMetadata: {
+    "home": {
+      "title": "Adobe Express",
+      "path": "https://developer.adobe.com/express/"
+    },
+  pages: [
       {
         title: "Adobe Creative Cloud",
         path: "/",
-      },
-      {
-        title: "Adobe Express",
-        path: "https://developer.adobe.com/express/",
       },
       {
         title: "Developer Events",
