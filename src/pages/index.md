@@ -84,11 +84,11 @@ Apply for a grant or investment.
 
 [Adobe Tech Blog | Get Funding to Build Adobe Express Add-Ons](https://blog.developer.adobe.com/get-funding-to-build-adobe-express-add-ons-093ddf8336be?source=friends_link&sk=f04b558801adc66ec89f25d8589e400b)
 
-![](images/affd_blog.png)
+![](images/adobe-fund-for-design-2.png)
 
-### Adobe Tech Blog
+### Get Funding to Build Adobe Express Add-Ons
 
-Get Funding to Build Adobe Express Add-Ons
+Adobe Tech Blog article
 
 <TitleBlock slots="heading, text" theme="dark" />
 
