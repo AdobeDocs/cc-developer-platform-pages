@@ -12,6 +12,17 @@
 
 module.exports = {
   siteMetadata: {
+    siteMetadata: {
+      versions: [
+        {
+          title: 'v2.0',
+          selected: true
+        },
+        {
+          title: 'v1.4',
+          path: 'https://github.com/AdobeDocs/dev-site'
+        }
+      ],
     pages: [
       {
         title: "Adobe Creative Cloud",

@@ -30,37 +30,6 @@ const products = [
     cloud: clouds[0]
   },
   {
-    id: 43,
-    name: 'Creative Cloud Libraries',
-    description: 'The Libraries API lets you connect your app to Creative Cloud and expand the reach of your users\' creative systems. Enable more efficient workflows by providing users with access to their creative elements, right inside your app.',
-    icon: 'https://adobe.io/shared/icons/cc_appicon_64.svg',
-    discover: '/creative-cloud-libraries',
-    docs: false,
-    lastUpdated: '1980',
-    cloud: clouds[0]
-  },
-  {
-    id: 44,
-    name: 'XD',
-    description:
-      "Adobe XD’s powerful API platform lets developers and users extend XD within the app, or in the cloud. Automate complex tasks, modify and generate document contents, integrate with external services, and more.",
-    icon: 'https://adobe.io/shared/icons/xd_appicon_64.svg',
-    discover: '/xd',
-    docs: false,
-    lastUpdated: '1979',
-    cloud: clouds[0]
-  },
-  {
-    id: 3,
-    name: 'Stock',
-    description: 'Give your users access to the perfect Adobe Stock asset to enhance their creative projects.',
-    icon: 'https://adobe.io/shared/icons/st_appicon_64.svg',
-    discover: '/stock',
-    docs: false,
-    lastUpdated: '2002',
-    cloud: clouds[0]
-  },
-  {
     id: 4,
     name: 'Photoshop',
     description:
@@ -261,17 +230,6 @@ const products = [
     cloud: clouds[2]
   },
   {
-    id: 26,
-    name: 'Adobe Primetime',
-    description:
-      'A multiscreen TV platform that helps broadcasters, cable networks and service providers create and monetize engaging and personalized TV and film experiences.',
-    icon: false,
-    discover: '/apis/experiencecloud/primetime',
-    docs: false,
-    lastUpdated: '2001',
-    cloud: clouds[2]
-  },
-  {
     id: 27,
     name: 'Adobe Target',
     description:
@@ -331,17 +289,6 @@ const products = [
     discover: '/apis/experienceplatform/console',
     docs: '/apis/experienceplatform/console/docs',
     lastUpdated: '2011',
-    cloud: clouds[3]
-  },
-  {
-    id: 33,
-    name: 'Project Firefly',
-    description:
-      'Project Firefly is a complete framework for building custom cloud native Adobe apps that extend Adobe solutions and run on our infrastructure.',
-    icon: false,
-    discover: '/project-firefly',
-    docs: '/project-firefly/docs/overview/',
-    lastUpdated: '2008',
     cloud: clouds[3]
   },
   {
@@ -408,17 +355,6 @@ const products = [
     discover: '/apis/experienceplatform/gdpr',
     docs: '/apis/experienceplatform/gdpr/docs',
     lastUpdated: '1993',
-    cloud: clouds[3]
-  },
-  {
-    id: 40,
-    name: 'Project Griffon',
-    description:
-      'We’ve created Project Griffon for you. Your input is vital to our design and development process. Let us know how we can make this product more intuitive to fit, naturally, with your existing workflows.',
-    icon: false,
-    discover: '/apis/experienceplatform/griffon',
-    docs: false,
-    lastUpdated: '1991',
     cloud: clouds[3]
   },
   {
