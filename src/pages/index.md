@@ -74,7 +74,7 @@ Get funding to build Adobe Express add-ons — plugins and integrations that unl
 
 [Adobe Fund for Design](https://developer.adobe.com/fund-for-design)
 
-![](images/adobe-fund-for-design-1.jpeg)
+![](images/affd2024.png)
 
 ### The Adobe Fund for Design
 
@@ -84,7 +84,7 @@ Apply for a grant or investment.
 
 [Adobe Tech Blog | Get Funding to Build Adobe Express Add-Ons](https://blog.developer.adobe.com/get-funding-to-build-adobe-express-add-ons-093ddf8336be?source=friends_link&sk=f04b558801adc66ec89f25d8589e400b)
 
-![](images/adobe-fund-for-design-3.jpeg)
+![](images/affd_blog.png)
 
 ### Adobe Tech Blog
 
