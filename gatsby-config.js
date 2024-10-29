@@ -12,10 +12,30 @@
 
 module.exports = {
   siteMetadata: {
-    pages: [
+    "home": {
+      "title": "Adobe Express",
+      "path": "https://developer.adobe.com/express/"
+    },
+  pages: [
       {
         title: "Adobe Creative Cloud",
         path: "/",
+      },
+      {
+        title: "Developer Events",
+        path: "https://developer.adobe.com/developers-live",
+      },
+      {
+        title: "Developer Forums",
+        path: "https://developer.adobe.com/developer-champion/forums",
+      },
+      {
+        title: "Developer Champions",
+        path: "https://developer.adobe.com/developer-champion/",
+      },
+      {
+        title: "Fund for Design",
+        path: "https://developer.adobe.com/fund-for-design/",
       },
     ],
   },
